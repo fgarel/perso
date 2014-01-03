@@ -1,36 +1,15 @@
-*.py[cod]
+bonne_annee_2014/data/
+bonne_annee_2014/bin/angular_01.png
+bonne_annee_2014/bin/angular_02.png
+bonne_annee_2014/bin/angular_03.png
+bonne_annee_2014/bin/angular_04.png
+bonne_annee_2014/bin/solid.png
+bonne_annee_2014/bin/colorwheel_HSB_01.png
+bonne_annee_2014/bin/colorwheel_HSB_02.png
+bonne_annee_2014/bin/colorwheel_HSB_03.png
+bonne_annee_2014/bin/colorwheel_HSB_04.png
+bonne_annee_2014/bin/colorwheel_HSL.png
+bonne_annee_2014/bin/gradient_resize1.jpg
+bonne_annee_2014/bin/gradient_resize2.jpg
+bonne_annee_2014/bin/radial.png
 
-# C extensions
-*.so
-
-# Packages
-*.egg
-*.egg-info
-dist
-build
-eggs
-parts
-bin
-var
-sdist
-develop-eggs
-.installed.cfg
-lib
-lib64
-__pycache__
-
-# Installer logs
-pip-log.txt
-
-# Unit test / coverage reports
-.coverage
-.tox
-nosetests.xml
-
-# Translations
-*.mo
-
-# Mr Developer
-.mr.developer.cfg
-.project
-.pydevproject
