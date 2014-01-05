@@ -26,7 +26,7 @@ convert -size 6400x4800 \
         -strokewidth 3 \
         -stroke '#222222FF' \
         -gravity center \
-        -pointsize 1600 \
+        -pointsize 1700 \
         -font Ubuntu-Bold-Italic \
         -interline-spacing -200 \
         label:"Bonne\nAnnée\n2014" \
@@ -76,162 +76,141 @@ convert -size 6400x4800 \
         ../data/fin/2014.jpg
 
 
-cp ../data/fin/2014.jpg \
-   ../data/fin/2014_colored_00.jpg
+cp ../bin/IMG_1588.JPG \
+   ../bin/IMG_1588_sav.JPG
+
+convert ../bin/IMG_1588_sav.JPG \
+        -resize 6400x4800 \
+        ../bin/IMG_1588.JPG
+
+cp ../bin/IMG_1591.jpg \
+   ../bin/IMG_1591_sav.jpg
+
+convert ../bin/IMG_1591_sav.jpg \
+        -resize 6400x4800 \
+        ../bin/IMG_1591.jpg
+
+cp ../bin/IMG_1597.JPG \
+   ../bin/IMG_1597_sav.JPG
+
+convert ../bin/IMG_1597_sav.JPG \
+        -resize 6400x4800 \
+        ../bin/IMG_1597.JPG
+
+# ------------------------
+# simple resize NB
+convert ../bin/IMG_1597.JPG \
+        -resize 6400x4800 \
+        -set colorspace Gray \
+        -separate \
+        -average \
+        ../bin/IMG_1597_NB.JPG
+
+echo "NB done"
+
+
+
+
 
 convert ../data/fin/2014.jpg \
         -colorspace sRGB \
-        +level-colors navy,lightblue \
-        ../data/fin/2014_colored_01.jpg
-
-
-convert \( xc:red \
-           xc:blue \
-           +append \) \
-        \( xc:yellow \
-           xc:green \
-           +append \) \
-        -append \
-        -filter triangle \
-        -resize 6400x4800\! \
-        gradient_resize1.jpg
-
-convert \( xc:green \
-           xc:yellow \
-           +append \) \
-        \( xc:blue \
-           xc:red \
-           +append \) \
-        -append \
-        -filter triangle \
-        -resize 6400x4800\! \
-        gradient_resize2.jpg
-
-
-convert -size 6400x1920 \
-        gradient: \
-        -rotate 90 \
-        -distort Arc '360 -90.1 3199' \
-        +repage \
-        -gravity center \
-        -crop 6400x4800+0+0 \
-        +repage \
-        angular_01.png
-convert -size 6400x1920 \
-        gradient: \
-        -rotate 90 \
-        -distort Arc '360 -180.1 3199' \
-        +repage \
-        -gravity center \
-        -crop 6400x4800+0+0 \
-        +repage \
-        angular_02.png
-convert -size 6400x1920 \
-        gradient: \
-        -rotate 90 \
-        -distort Arc '360 -270.1 3199' \
-        +repage \
-        -gravity center \
-        -crop 6400x4800+0+0 \
-        +repage \
-        angular_03.png
-convert -size 6400x1920 \
-        gradient: \
-        -rotate 90 \
-        -distort Arc '360 -0.1 3199' \
-        +repage \
-        -gravity center \
-        -crop 6400x4800+0+0 \
-        +repage \
-        angular_04.png
-convert -size 6400x4800 \
-        xc:white \
-        solid.png
-convert -size 6400x4800 \
-        radial-gradient: \
-        -negate \
-        radial.png
-
-convert angular_01.png \
-        solid.png \
-        radial.png \
-        -combine \
-        -set colorspace HSL \
-        -colorspace sRGB \
-        colorwheel_HSL.png
-
-convert angular_01.png \
-        solid.png \
-        radial.png \
-        -combine \
-        -set colorspace HSB \
-        -colorspace sRGB \
-        colorwheel_HSB_01.png
-convert angular_02.png \
-        solid.png \
-        radial.png \
-        -combine \
-        -set colorspace HSB \
-        -colorspace sRGB \
-        colorwheel_HSB_02.png
-convert angular_03.png \
-        solid.png \
-        radial.png \
-        -combine \
-        -set colorspace HSB \
-        -colorspace sRGB \
-        colorwheel_HSB_03.png
-convert angular_04.png \
-        solid.png \
-        radial.png \
-        -combine \
-        -set colorspace HSB \
-        -colorspace sRGB \
-        colorwheel_HSB_04.png
-
-convert ../data/fin/2014_colored_00.jpg \
-        -colorspace sRGB \
         \( +clone \
            -size 6400x4800 \
-           -tile solid.png \
+           -tile IMG_1597.JPG \
            -draw "color 0,0 reset" \) \
         \( +clone \
            -size 6400x4800 \
-           -tile colorwheel_HSB_04.png \
+           -tile IMG_1597_NB.JPG \
            -draw "color 0,0 reset" \) \
         -reverse \
         -composite \
         ../data/fin/2014_colored_01.jpg
 
-convert ../data/fin/2014_colored_00.jpg \
+convert ../data/fin/2014.jpg \
         -colorspace sRGB \
         \( +clone \
            -size 6400x4800 \
-           -tile gradient: \
+           -tile IMG_1597_NB.JPG \
            -draw "color 0,0 reset" \) \
         \( +clone \
            -size 6400x4800 \
-           -tile colorwheel_HSB_04.png \
+           -tile IMG_1597.JPG \
            -draw "color 0,0 reset" \) \
         -reverse \
         -composite \
         ../data/fin/2014_colored_02.jpg
 
-convert ../data/fin/2014_colored_00.jpg \
+convert ../data/fin/2014.jpg \
         -colorspace sRGB \
         \( +clone \
            -size 6400x4800 \
-           -tile colorwheel_HSB_02.png \
+           -tile ../bin/IMG_1597.JPG \
            -draw "color 0,0 reset" \) \
         \( +clone \
            -size 6400x4800 \
-           -tile colorwheel_HSB_04.png \
+           -tile ../bin/IMG_1588.JPG \
            -draw "color 0,0 reset" \) \
         -reverse \
         -composite \
         ../data/fin/2014_colored_03.jpg
 
-rm ../data/fin/2014.jpg
-mv ../data/fin/2014_colored_02.jpg \
+convert ../data/fin/2014.jpg \
+        -colorspace sRGB \
+        \( +clone \
+           -size 6400x4800 \
+           -tile ../bin/IMG_1597.JPG \
+           -draw "color 0,0 reset" \) \
+        \( +clone \
+           -size 6400x4800 \
+           -tile ../bin/IMG_1591.jpg \
+           -draw "color 0,0 reset" \) \
+        -reverse \
+        -composite \
+        ../data/fin/2014_colored_04.jpg
+
+convert ../data/fin/2014.jpg \
+        -colorspace sRGB \
+        \( +clone \
+           -size 6400x4800 \
+           -tile ../bin/IMG_1597.JPG \
+           -draw "color 0,0 reset" \) \
+        \( +clone \
+           -size 6400x4800 \
+           -tile xc:grey10 \
+           -draw "color 0,0 reset" \) \
+        -reverse \
+        -composite \
+        ../data/fin/2014_colored_05.jpg
+
+convert ../data/fin/2014.jpg \
+        -colorspace sRGB \
+        \( +clone \
+           -size 6400x4800 \
+           -tile ../bin/IMG_1597.JPG \
+           -draw "color 0,0 reset" \) \
+        \( +clone \
+           -size 6400x4800 \
+           -tile xc:grey20 \
+           -draw "color 0,0 reset" \) \
+        -reverse \
+        -composite \
+        ../data/fin/2014_colored_06.jpg
+
+convert ../data/fin/2014.jpg \
+        -colorspace sRGB \
+        \( +clone \
+           -size 6400x4800 \
+           -tile ../bin/IMG_1597.JPG \
+           -draw "color 0,0 reset" \) \
+        \( +clone \
+           -size 6400x4800 \
+           -tile xc:grey30 \
+           -draw "color 0,0 reset" \) \
+        -reverse \
+        -composite \
+        ../data/fin/2014_colored_07.jpg
+
+mv ../data/fin/2014.jpg ../data/fin/2014_sav.jpg
+mv ../data/fin/2014_colored_05.jpg \
    ../data/fin/2014.jpg
 
