@@ -25,6 +25,16 @@
 # #####################
 metapixel --library \
           ../data/ini2/ \
+          --cheat=10 \
+          --width=128 \
+          --heigh=96 \
+          --search=global \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_10.jpg
+
+metapixel --library \
+          ../data/ini2/ \
           --cheat=20 \
           --width=128 \
           --heigh=96 \
@@ -53,162 +63,52 @@ metapixel --library \
           ../data/fin/2014.jpg \
           ../data/fin/2014_mosaic_40.jpg
 
+###
 metapixel --library \
           ../data/ini2/ \
-          --cheat=30 \
+          --cheat=20 \
           --width=128 \
           --heigh=96 \
-          --search=local \
-          --distance=4 \
+          --metric=subpixel \
+          --search=global \
           --metapixel \
           ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_0004.jpg
+          ../data/fin/2014_mosaic_20_subpixel_global.jpg
 
 metapixel --library \
           ../data/ini2/ \
-          --cheat=30 \
+          --cheat=20 \
           --width=128 \
           --heigh=96 \
-          --search=local \
-          --distance=8 \
+          --metric=wavelet \
+          --search=global \
           --metapixel \
           ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_0008.jpg
+          ../data/fin/2014_mosaic_20_wavelet_global.jpg
 
 metapixel --library \
           ../data/ini2/ \
-          --cheat=30 \
-          --width=128 \
-          --heigh=96 \
-          --search=local \
-          --distance=16 \
-          --metapixel \
-          ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_0016.jpg
-
-metapixel --library \
-          ../data/ini2/ \
-          --cheat=30 \
-          --width=128 \
-          --heigh=96 \
-          --search=local \
-          --distance=32 \
-          --metapixel \
-          ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_0032.jpg
-
-metapixel --library \
-          ../data/ini2/ \
-          --cheat=30 \
-          --width=128 \
-          --heigh=96 \
-          --search=local \
-          --distance=64 \
-          --metapixel \
-          ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_0064.jpg
-
-metapixel --library \
-          ../data/ini2/ \
-          --cheat=30 \
-          --width=128 \
-          --heigh=96 \
-          --search=local \
-          --distance=128 \
-          --metapixel \
-          ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_0128.jpg
-
-metapixel --library \
-          ../data/ini2/ \
-          --cheat=30 \
-          --width=128 \
-          --heigh=96 \
-          --search=local \
-          --distance=256 \
-          --metapixel \
-          ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_0256.jpg
-
-metapixel --library \
-          ../data/ini2/ \
-          --cheat=30 \
-          --width=128 \
-          --heigh=96 \
-          --search=local \
-          --distance=512 \
-          --metapixel \
-          ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_0512.jpg
-
-metapixel --library \
-          ../data/ini2/ \
-          --cheat=30 \
-          --width=128 \
-          --heigh=96 \
-          --search=local \
-          --distance=1024 \
-          --metapixel \
-          ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_1024.jpg
-
-metapixel --library \
-          ../data/ini2/ \
-          --cheat=30 \
-          --width=128 \
-          --heigh=96 \
-          --search=local \
-          --distance=2048 \
-          --metapixel \
-          ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_2048.jpg
-
-metapixel --library \
-          ../data/ini2/ \
-          --cheat=30 \
-          --width=128 \
-          --heigh=96 \
-          --search=local \
-          --distance=4096 \
-          --metapixel \
-          ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_4096.jpg
-
-metapixel --library \
-          ../data/ini2/ \
-          --cheat=30 \
-          --width=128 \
-          --heigh=96 \
-          --search=local \
-          --distance=8192 \
-          --metapixel \
-          ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_8192.jpg
-
-metapixel --library \
-          ../data/ini2/ \
-          --cheat=30 \
+          --cheat=20 \
           --width=128 \
           --heigh=96 \
           --metric=subpixel \
           --search=local \
-          --distance=512 \
           --metapixel \
           ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_subpixel_distance_0512.jpg
+          ../data/fin/2014_mosaic_20_subpixel_local.jpg
 
 metapixel --library \
           ../data/ini2/ \
-          --cheat=30 \
+          --cheat=20 \
           --width=128 \
           --heigh=96 \
           --metric=wavelet \
           --search=local \
-          --distance=512 \
           --metapixel \
           ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_wavelet_distance_0512.jpg
+          ../data/fin/2014_mosaic_20_wavelet_local.jpg
 
+###
 metapixel --library \
           ../data/ini2/ \
           --cheat=30 \
@@ -253,78 +153,308 @@ metapixel --library \
           ../data/fin/2014.jpg \
           ../data/fin/2014_mosaic_30_wavelet_local.jpg
 
+######
 metapixel --library \
           ../data/ini2/ \
-          --cheat=30 \
+          --cheat=20 \
           --width=128 \
           --heigh=96 \
-          --search=local \
-          --distance=512 \
+          --metric=wavelet \
+          --search=global \
           --y-weight=0 \
           --i-weight=0 \
           --metapixel \
           ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_0512_q.jpg
+          ../data/fin/2014_mosaic_20_wavelet_global_q.jpg
 
 metapixel --library \
           ../data/ini2/ \
-          --cheat=30 \
+          --cheat=20 \
           --width=128 \
           --heigh=96 \
-          --search=local \
-          --distance=512 \
+          --metric=wavelet \
+          --search=global \
           --y-weight=0 \
           --q-weight=0 \
           --metapixel \
           ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_0512_i.jpg
+          ../data/fin/2014_mosaic_20_wavelet_global_i.jpg
 
 metapixel --library \
           ../data/ini2/ \
-          --cheat=30 \
+          --cheat=20 \
           --width=128 \
           --heigh=96 \
-          --search=local \
-          --distance=512 \
+          --metric=wavelet \
+          --search=global \
           --i-weight=0 \
           --q-weight=0 \
           --metapixel \
           ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_0512_y.jpg
+          ../data/fin/2014_mosaic_20_wavelet_global_y.jpg
 
 metapixel --library \
           ../data/ini2/ \
-          --cheat=30 \
+          --cheat=20 \
           --width=128 \
           --heigh=96 \
-          --search=local \
-          --distance=512 \
+          --metric=wavelet \
+          --search=global \
           --i-weight=0 \
           --metapixel \
           ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_0512_yq.jpg
+          ../data/fin/2014_mosaic_20_wavelet_global_yq.jpg
+
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=20 \
+          --width=128 \
+          --heigh=96 \
+          --metric=wavelet \
+          --search=global \
+          --q-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_20_wavelet_global_yi.jpg
+
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=20 \
+          --width=512 \
+          --heigh=96 \
+          --metric=wavelet \
+          --search=global \
+          --y-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_20_wavelet_global_iq.jpg
+
+
+######
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=30 \
+          --width=128 \
+          --heigh=96 \
+          --metric=wavelet \
+          --search=global \
+          --y-weight=0 \
+          --i-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_30_wavelet_global_q.jpg
 
 metapixel --library \
           ../data/ini2/ \
           --cheat=30 \
           --width=128 \
           --heigh=96 \
-          --search=local \
-          --distance=512 \
+          --metric=wavelet \
+          --search=global \
+          --y-weight=0 \
           --q-weight=0 \
           --metapixel \
           ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_0512_yi.jpg
+          ../data/fin/2014_mosaic_30_wavelet_global_i.jpg
+
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=30 \
+          --width=128 \
+          --heigh=96 \
+          --metric=wavelet \
+          --search=global \
+          --i-weight=0 \
+          --q-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_30_wavelet_global_y.jpg
+
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=30 \
+          --width=128 \
+          --heigh=96 \
+          --metric=wavelet \
+          --search=global \
+          --i-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_30_wavelet_global_yq.jpg
+
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=30 \
+          --width=128 \
+          --heigh=96 \
+          --metric=wavelet \
+          --search=global \
+          --q-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_30_wavelet_global_yi.jpg
 
 metapixel --library \
           ../data/ini2/ \
           --cheat=30 \
           --width=512 \
           --heigh=96 \
-          --search=local \
-          --distance=128 \
+          --metric=wavelet \
+          --search=global \
           --y-weight=0 \
           --metapixel \
           ../data/fin/2014.jpg \
-          ../data/fin/2014_mosaic_30_distance_0512_iq.jpg
+          ../data/fin/2014_mosaic_30_wavelet_global_iq.jpg
 
+######
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=20 \
+          --width=128 \
+          --heigh=96 \
+          --metric=subpixel \
+          --search=global \
+          --y-weight=0 \
+          --i-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_20_subpixel_global_q.jpg
+
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=20 \
+          --width=128 \
+          --heigh=96 \
+          --metric=subpixel \
+          --search=global \
+          --y-weight=0 \
+          --q-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_20_subpixel_global_i.jpg
+
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=20 \
+          --width=128 \
+          --heigh=96 \
+          --metric=subpixel \
+          --search=global \
+          --i-weight=0 \
+          --q-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_20_subpixel_global_y.jpg
+
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=20 \
+          --width=128 \
+          --heigh=96 \
+          --metric=subpixel \
+          --search=global \
+          --i-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_20_subpixel_global_yq.jpg
+
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=20 \
+          --width=128 \
+          --heigh=96 \
+          --metric=subpixel \
+          --search=global \
+          --q-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_20_subpixel_global_yi.jpg
+
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=20 \
+          --width=512 \
+          --heigh=96 \
+          --metric=subpixel \
+          --search=global \
+          --y-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_20_subpixel_global_iq.jpg
+
+
+######
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=30 \
+          --width=128 \
+          --heigh=96 \
+          --metric=subpixel \
+          --search=global \
+          --y-weight=0 \
+          --i-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_30_subpixel_global_q.jpg
+
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=30 \
+          --width=128 \
+          --heigh=96 \
+          --metric=subpixel \
+          --search=global \
+          --y-weight=0 \
+          --q-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_30_subpixel_global_i.jpg
+
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=30 \
+          --width=128 \
+          --heigh=96 \
+          --metric=subpixel \
+          --search=global \
+          --i-weight=0 \
+          --q-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_30_subpixel_global_y.jpg
+
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=30 \
+          --width=128 \
+          --heigh=96 \
+          --metric=subpixel \
+          --search=global \
+          --i-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_30_subpixel_global_yq.jpg
+
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=30 \
+          --width=128 \
+          --heigh=96 \
+          --metric=subpixel \
+          --search=global \
+          --q-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_30_subpixel_global_yi.jpg
+
+metapixel --library \
+          ../data/ini2/ \
+          --cheat=30 \
+          --width=512 \
+          --heigh=96 \
+          --metric=subpixel \
+          --search=global \
+          --y-weight=0 \
+          --metapixel \
+          ../data/fin/2014.jpg \
+          ../data/fin/2014_mosaic_30_subpixel_global_iq.jpg
