@@ -1,0 +1,29 @@
+total 73716
+drwxrwxr-x  6 fred fred    4096 déc.   3 13:48 .
+drwxr-xr-x 24 fred fred    4096 déc.   9 21:39 ..
+-rw-rw-rw-  1 fred fred 2883575 déc.   2 22:19 0301-GavotteModCalanhel-TonSimpl.mp3
+-rw-rw-rw-  1 fred fred 1903461 déc.   2 22:19 0302-GavotteModCalanhel-TammKreiz.mp3
+-rw-rw-rw-  1 fred fred 2202823 déc.   2 22:19 0303-GavotteModCalanhel-TonDoubl.mp3
+-rw-rw-rw-  1 fred fred 3997696 déc.   2 22:19 0401-Mazurka-Mazurka-Mike_James_a_Yves_Leblanc-Musique_a_danser_de_Bretagne-Vol_3-23-Mazurka.mp3
+-rw-rw-rw-  1 fred fred 2398208 déc.   2 22:19 0402-Mazurka-Mazurka-Altan-RunawaySunday-07-Mazurka.mp3
+-rw-rw-rw-  1 fred fred 5101568 déc.   2 22:19 0403-Mazurka-Mazulrka-Emsaverien-SecondesVendanges-06-Mazurka.mp3
+-rw-rw-rw-  1 fred fred 5459968 déc.   2 22:19 0404-Mazurka-Mazurka-Pevar_Den-Dek_Vloaz-13-Mazurka.mp3
+-rw-r--r--  1 fred fred 4516003 nov.  26 08:18 0405-Mazurka-Mazurka-Korriganed-AvelAnHeol-09-La_barbiere_mazurka.mp3
+-rw-r--r--  1 fred fred 4302848 nov.  26 08:18 0601-GavotteDesNotables-GavotteDesNotables-alain_pennec-bal_breton_cd4-10-gavotte_des_notables.mp3
+-rw-r--r--  1 fred fred 2722190 nov.  26 08:18 0602-GavotteDesNotables-GavotteDesNotables-LeBlanc-DVD02-13_1.mp3
+-rw-rw-rw-  1 fred fred 5437440 déc.   2 22:19 0801-Pastourelle-Pastourelle-Koskerien-Galop_breton-02-Pergola_pastourelle.mp3
+-rw-r--r--  1 fred fred 3624960 nov.  26 08:18 1101-DerobeeDeGuingamp-DerobeeDeGuingamp-Pennec-BalBretonV2-04-DerobeeDeGuingamp.mp3
+-rw-rw-rw-  1 fred fred 2584576 déc.   2 22:19 1101-Maraichine-Maraichine-Pennec-BalBretonV1-17-Maraichine.mp3
+-rw-r--r--  1 fred fred 2875392 nov.  26 08:18 1201-SuiteFisel-TonSimpl-TUD-La_Plume_De_Paon-06-Suite_Fisel-ton_simpl.mp3
+-rw-r--r--  1 fred fred 1091584 nov.  26 08:18 1202-SuiteFisel-Bal-TUD-La_Plume_De_Paon-07-Suite_Fisel-Bal.mp3
+-rw-r--r--  1 fred fred 3182592 nov.  26 08:18 1203-SuiteFisel-TonDoubl-TUD-La_Plume_De_Paon-08-Suite_fisel_ton_doubl.mp3
+-rw-r--r--  1 fred fred 2803366 nov.  19 07:34 1301-GavotteKernevodez-dansWarArSeizenn-TristanGloaguenGaelLeFur.mp3
+-rw-r--r--  1 fred fred 2668544 nov.   4 21:50 1601-GavotteBasLeon-GavotteBasLeon-Klaskerien-Et_Tog-01-Gavotte_du_bas_Leon.mp3
+-rw-rw-rw-  1 fred fred 1542362 déc.   2 22:19 1601-SuiteAvant4-TrompeuseDinan-Mike_James_et_Yves_Leblanc-Musique_a_danser_de_Bretagne-Vol_3-07-Suite_d_Avant_Quatre-Trompeuse_de_Dinan.mp3
+-rw-rw-rw-  1 fred fred 6492160 déc.   2 22:19 2001-Scottish-Scottish-Inhze-Fest Noz-01-Scottish.mp3
+-rw-r--r--  1 fred fred 3281346 nov.  26 08:18 2401-Scottish-Scottish-Pennou_Skoulm-Fest-Noz_Breton_Ballroom-05-Scottisches.mp3
+-rw-r--r--  1 fred fred 4359211 nov.  26 08:18 2801-HanterDroAnDro-HanterDroAnDro-Korriganed-AvelAnHeol-08-la_maladie_des_couleurs_tricot.mp3
+drwxr-xr-x  2 fred fred    4096 nov.  29  2011 bidar
+drwxr-xr-x  2 fred fred    4096 nov.  29  2011 chateauneufDuFaou
+drwxr-xr-x  2 fred fred    4096 nov.  29  2011 dardoup
+drwxr-xr-x  2 fred fred    4096 nov.  29  2011 StHerblon
