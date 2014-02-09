@@ -1,0 +1,16 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Introduction}{2}
+\contentsline {chapter}{\numberline {2}Les observations}{3}
+\contentsline {section}{\numberline {2.1}Matériels utilisés}{3}
+\contentsline {section}{\numberline {2.2}Les Conditions d'observations}{3}
+\contentsline {section}{\numberline {2.3}La précision géométrique}{3}
+\contentsline {section}{\numberline {2.4}Des Points fixes et des points à surveiller}{4}
+\contentsline {chapter}{\numberline {3}Les calculs}{5}
+\contentsline {section}{\numberline {3.1}Les Stations d'observation}{5}
+\contentsline {section}{\numberline {3.2}Points fixes ou Points de référence}{5}
+\contentsline {section}{\numberline {3.3}Points cibles}{5}
+\contentsline {chapter}{\numberline {4}Les résultats}{7}
+\contentsline {section}{\numberline {4.1}Les coordonnées des points fixes}{7}
+\contentsline {section}{\numberline {4.2}Etat 0 : les coordonnées des points cibles au 12/12/13}{8}
+\contentsline {section}{\numberline {4.3}Etat 1 : les coordonnées des points cibles au 19/12/13}{9}
+\contentsline {chapter}{\numberline {A}Les points observés}{10}
