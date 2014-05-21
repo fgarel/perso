@@ -1,0 +1,21 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Présentation du Port Atlantique de La Rochelle}{2}
+\contentsline {section}{\numberline {1.1}Historique}{2}
+\contentsline {section}{\numberline {1.2}Nature des activités}{2}
+\contentsline {section}{\numberline {1.3}Statut juridique}{3}
+\contentsline {section}{\numberline {1.4}Taille de l'entreprise}{3}
+\contentsline {chapter}{\numberline {2}Organisation de l'entreprise}{4}
+\contentsline {section}{\numberline {2.1}Structure de l'entreprise}{4}
+\contentsline {section}{\numberline {2.2}Condition de travail}{4}
+\contentsline {section}{\numberline {2.3}Le recrutement}{5}
+\contentsline {section}{\numberline {2.4}Les syndicats}{5}
+\contentsline {chapter}{\numberline {3}La Production}{6}
+\contentsline {chapter}{\numberline {4}La commercialisation}{7}
+\contentsline {chapter}{\numberline {A}Les photos}{8}
+\contentsline {section}{\numberline {A.1}Une vue d'ensemble : la maquette}{8}
+\contentsline {chapter}{\numberline {B}Inclure des graphiques dans un document}{11}
+\contentsline {section}{\numberline {B.1}Inclure des graphiques dans un rapport}{11}
+\contentsline {subsection}{\numberline {B.1.1}Le problème}{11}
+\contentsline {subsection}{\numberline {B.1.2}Les Options}{11}
+\contentsline {subsubsection}{viewport}{11}
+\contentsline {subsubsection}{trim}{11}
