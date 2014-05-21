@@ -12,14 +12,6 @@
 %\usepackage[a4paper,width=170mm,top=25mm,bottom=25mm,bindingoffst=10mm]{geometry}
 \usepackage{fancyhdr}   % header and footer
 \pagestyle{fancy}
-%personnalisation des entetes et des pieds de pages
-%https://www.sharelatex.com/blog/2013/08/06/thesis-series-pt2.html#.Uq6z-kNx5yA
-\fancyhead{}
-\fancyhead[RO,LE]{Surveillance de la Façade de l'Hôtel de Ville}
-\fancyfoot{}
-\fancyfoot[LE,RO]{\thepage}
-\fancyfoot[LO,CE]{Chapitre \thechapter}
-\fancyfoot[CO,RE]{Ville de La Rochelle}
 
 \usepackage{babel}
 \usepackage{datetime}
@@ -29,9 +21,11 @@
 %\usepackage{wrapfig}   % wrapping text around figures
 \usepackage{caption}   % to have subfigures within figures
 \usepackage{subcaption}
+\usepackage{wrapfig}
 \usepackage{float}
 \floatstyle{boxed}
-\restylefloat{figure}
+% pour rajouter un cadre autour des fifures
+%\restylefloat{figure}
 % http://en.wikibooks.org/wiki/LaTeX/Floats,_Figures_and_Captions
 
 % les chemins ou sont stockées les images
@@ -40,6 +34,7 @@
               {/home/fred/Images/rapport_stage/}
               {images/}}
 %\graphicspath{{/home/fred/}{/home/fred/f/CARTOGRAPHIE/Plans/2_Topo_EnCours/hotel_de_ville/20131210/Station_1/Points_cible_S1/}{/home/fred/f/CARTOGRAPHIE/Plans/2_Topo_EnCours/hotel_de_ville/20131210/Station_2/Points_cible_S2/}{images/}}
+\input{chapters/entete_pied_page.tex}
 \input{macros/includegraphics.tex}
 
 \begin{document}
@@ -65,26 +60,26 @@
 \tableofcontents
 
 
-\chapter{Introduction}
-\input{chapters/introduction}
+\chapter{Présentation du Port Atlantique de La Rochelle}
+\input{chapters/chapter01}
 
-\chapter{Les observations}
+\chapter{Organisation de l'entreprise}
 \input{chapters/chapter02}
 
-\chapter{Les calculs}
+\chapter{La Production}
 \input{chapters/chapter03}
 
-\chapter{Les résultats}
+\chapter{La commercialisation}
 \input{chapters/chapter04}
 
 %\chapter{Conclusion}
 %\input{chapters/conclusion}
 
 \appendix
-\chapter{Les points observés}
-%\input{chapters/appendix01}
-%\chapter{Inclure des graphiques dans un document}
-%\input{chapters/appendix02}
+\chapter{Les photos}
+\input{chapters/appendix01}
+\chapter{Inclure des graphiques dans un document}
+\input{chapters/appendix02}
 
 
 % liste des figures

@@ -16,6 +16,33 @@
 % - pour l'insertion de photo horizontale et pour l'insertion de photo verticale
 % - pour des zoom centré (huitSix) ou pour des zoom décalés
 
+%\usepackage{wrapfig}
+%\begin{wrapfigure}{r}{0.5\textwidth}
+%    \begin{center}
+%        \includegraphics[width=0.48\textwidth]{P1020712.JPG}
+%    \end{center}
+%    \caption{A gull}
+%\end{wrapfigure}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 3 parametres :
+%   - Nom de la photo
+%   - Légende
+%   - largeur en cm
+\newcommand\includePhotoHorizontalCinqCm[2]{% 3 photos par ligne, orientation paysage
+    \begin{figure}[!h]
+        %\begin{subfigure}[b]{0.8\textwidth}
+            %\includegraphics[angle=0,width=5cm,viewport=0 0 4000 3000,clip=true,keepaspectratio=true]{#1}
+        \begin{center}
+            \includegraphics[angle=0,width=5cm,clip=true,keepaspectratio=true]{#1}
+        \end{center}
+            %\caption{#2}
+            %\label{#1}
+        %\end{subfigure}
+        \caption{#2}
+        \label{#1}
+    \end{figure}
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcommand\includePhotoTiersHorizontal[2]{% 3 photos par ligne, orientation paysage
