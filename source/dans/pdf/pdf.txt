@@ -35,9 +35,9 @@ DANSES1.pdfµ26µAvant-Deux de Traversµ
 DANSES1.pdfµ28µScottishµ
 DANSES1.pdfµ29µValse Ecossaiseµ
 DANSES1.pdfµ30µMazurkaµ
-DANSES2.pdfµ5µµ
-DANSES2.pdfµ6µµ
-DANSES2.pdfµ7µµ
+DANSES2.pdfµ5µLaride de Kervignacµ
+DANSES2.pdfµ6µRidée de Saint Perreuxµ
+DANSES2.pdfµ7µLaridé de aµ
 DANSES2.pdfµ8µµ
 DANSES2.pdfµ9µµ
 DANSES2.pdfµ10µµ
@@ -185,86 +185,30 @@ DANSES7.pdfµ26µµ
 DANSES7.pdfµ27µµ
 DANSES7.pdfµ28µµ
 DANSES7.pdfµ29µµ
-DANSES8.pdfµ5µµ
-DANSES8.pdfµ6µµ
-DANSES8.pdfµ7µµ
-DANSES8.pdfµ8µµ
-DANSES8.pdfµ9µµ
-DANSES8.pdfµ10µµ
-DANSES8.pdfµ11µµ
-DANSES8.pdfµ12µµ
-DANSES8.pdfµ13µµ
-DANSES8.pdfµ14µµ
-DANSES8.pdfµ15µµ
-DANSES8.pdfµ16µµ
-DANSES8.pdfµ17µµ
-DANSES8.pdfµ18µµ
-DANSES8.pdfµ19µµ
-DANSES8.pdfµ20µµ
-DANSES8.pdfµ21µµ
-DANSES8.pdfµ22µµ
-DANSES8.pdfµ23µµ
-DANSES8.pdfµ24µµ
-DANSES8.pdfµ25µµ
-DANSES8.pdfµ26µµ
-DANSES8.pdfµ27µµ
-DANSES8.pdfµ28µµ
-DANSES8.pdfµ29µµ
+DANSES8.pdfµ7µRonde aux trois Pasµ
+DANSES8.pdfµ8µRonde de l'Ile de Batzµ
+DANSES8.pdfµ9µTourbillon de Carantecµ
+DANSES8.pdfµ10µTourbillon du Dourduffµ
+DANSES8.pdfµ11µAvant-deux du petit Bonhommeµ
+DANSES8.pdfµ12µDans Oignonµ
+DANSES8.pdfµ14µDans Leon mode dite de Pleyber-Christµ
+DANSES8.pdfµ16µDans Leon mode dite de Sizunµ
+DANSES8.pdfµ18µDans Leon mode dite de Locmelarµ
+DANSES8.pdfµ20µDans Leon mode dite du Trehouµ
+DANSES8.pdfµ22µDans Leon mode dite de la Roche Mauriceµ
+DANSES8.pdfµ24µDans Leon mode dite de Pencranµ
+DANSES8.pdfµ26µDans Amouroustedµ
+DANSES8.pdfµ27µDans Sizun (coté Cornouaille)µ
+DANSES8.pdfµ28µDans Sizun (coté Léon)µ
+DANSES8.pdfµ29µAeroplane de Sizunµ
+DANSES8.pdfµ30µAeroplane de Lampol Guimiliauµ
+DANSES8.pdfµ31µDans Kefµ
+DANSES8.pdfµ33µGavotte d'honneur de Commanaµ
 DANSES9.pdfµ5µGavotte de l'Avenµ
 DANSES9.pdfµ8µBals de l'Avenµ
 DANSES9.pdfµ11µJabadao de l'Avenµ
 DANSES9.pdfµ13µGymnaskaµ
 DANSES9.pdfµ14µAr Skubelµ
 DANSES9.pdfµ15µStoupig ou Petistoupµ
-DANSES10.pdfµ5µµ
-DANSES10.pdfµ6µµ
-DANSES10.pdfµ7µµ
-DANSES10.pdfµ8µµ
-DANSES10.pdfµ9µµ
-DANSES10.pdfµ10µµ
-DANSES10.pdfµ11µµ
-DANSES10.pdfµ12µµ
-DANSES10.pdfµ13µµ
-DANSES10.pdfµ14µµ
-DANSES10.pdfµ15µµ
-DANSES10.pdfµ16µµ
-DANSES10.pdfµ17µµ
-DANSES10.pdfµ18µµ
-DANSES10.pdfµ19µµ
-DANSES10.pdfµ20µµ
-DANSES10.pdfµ21µµ
-DANSES10.pdfµ22µµ
-DANSES10.pdfµ23µµ
-DANSES10.pdfµ24µµ
-DANSES10.pdfµ25µµ
-DANSES10.pdfµ26µµ
-DANSES10.pdfµ27µµ
-DANSES10.pdfµ28µµ
-DANSES10.pdfµ29µµ
-DANSES11.pdfµ5µµ
-DANSES11.pdfµ6µµ
-DANSES11.pdfµ7µµ
-DANSES11.pdfµ8µµ
-DANSES11.pdfµ9µµ
-DANSES11.pdfµ10µµ
-DANSES11.pdfµ11µµ
-DANSES11.pdfµ12µµ
-DANSES11.pdfµ13µµ
-DANSES11.pdfµ14µµ
-DANSES11.pdfµ15µµ
-DANSES11.pdfµ16µµ
-DANSES11.pdfµ17µµ
-DANSES11.pdfµ18µµ
-DANSES11.pdfµ19µµ
-DANSES11.pdfµ20µµ
-DANSES11.pdfµ21µµ
-DANSES11.pdfµ22µµ
-DANSES11.pdfµ23µµ
-DANSES11.pdfµ24µµ
-DANSES11.pdfµ25µµ
-DANSES11.pdfµ26µµ
-DANSES11.pdfµ27µµ
-DANSES11.pdfµ28µµ
-DANSES11.pdfµ29µµ
 
 
