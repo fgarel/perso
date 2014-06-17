@@ -110,99 +110,99 @@ DANSES4.pdfµ26µµ
 DANSES4.pdfµ27µµ
 DANSES4.pdfµ28µµ
 DANSES4.pdfµ29µµ
-DANSES5.pdfµ5µµ
-DANSES5.pdfµ6µµ
-DANSES5.pdfµ7µµ
-DANSES5.pdfµ8µµ
-DANSES5.pdfµ9µµ
-DANSES5.pdfµ10µµ
-DANSES5.pdfµ11µµ
-DANSES5.pdfµ12µµ
-DANSES5.pdfµ13µµ
-DANSES5.pdfµ14µµ
-DANSES5.pdfµ15µµ
-DANSES5.pdfµ16µµ
-DANSES5.pdfµ17µµ
-DANSES5.pdfµ18µµ
-DANSES5.pdfµ19µµ
-DANSES5.pdfµ20µµ
-DANSES5.pdfµ21µµ
-DANSES5.pdfµ22µµ
-DANSES5.pdfµ23µµ
-DANSES5.pdfµ24µµ
-DANSES5.pdfµ25µµ
-DANSES5.pdfµ26µµ
-DANSES5.pdfµ27µµ
-DANSES5.pdfµ28µµ
-DANSES5.pdfµ29µµ
-DANSES6.pdfµ5µµ
-DANSES6.pdfµ6µµ
-DANSES6.pdfµ7µµ
-DANSES6.pdfµ8µµ
-DANSES6.pdfµ9µµ
-DANSES6.pdfµ10µµ
-DANSES6.pdfµ11µµ
-DANSES6.pdfµ12µµ
-DANSES6.pdfµ13µµ
-DANSES6.pdfµ14µµ
-DANSES6.pdfµ15µµ
-DANSES6.pdfµ16µµ
-DANSES6.pdfµ17µµ
-DANSES6.pdfµ18µµ
-DANSES6.pdfµ19µµ
-DANSES6.pdfµ20µµ
-DANSES6.pdfµ21µµ
-DANSES6.pdfµ22µµ
-DANSES6.pdfµ23µµ
-DANSES6.pdfµ24µµ
-DANSES6.pdfµ25µµ
-DANSES6.pdfµ26µµ
-DANSES6.pdfµ27µµ
-DANSES6.pdfµ28µµ
-DANSES6.pdfµ29µµ
-DANSES7.pdfµ5µµ
-DANSES7.pdfµ6µµ
-DANSES7.pdfµ7µµ
-DANSES7.pdfµ8µµ
-DANSES7.pdfµ9µµ
-DANSES7.pdfµ10µµ
-DANSES7.pdfµ11µµ
-DANSES7.pdfµ12µµ
-DANSES7.pdfµ13µµ
-DANSES7.pdfµ14µµ
-DANSES7.pdfµ15µµ
-DANSES7.pdfµ16µµ
-DANSES7.pdfµ17µµ
-DANSES7.pdfµ18µµ
-DANSES7.pdfµ19µµ
-DANSES7.pdfµ20µµ
-DANSES7.pdfµ21µµ
-DANSES7.pdfµ22µµ
-DANSES7.pdfµ23µµ
-DANSES7.pdfµ24µµ
-DANSES7.pdfµ25µµ
-DANSES7.pdfµ26µµ
-DANSES7.pdfµ27µµ
-DANSES7.pdfµ28µµ
-DANSES7.pdfµ29µµ
+DANSES5.pdfµ4µLe moulinetµ
+DANSES5.pdfµ4µLe chapeletµ
+DANSES5.pdfµ4µLa fougèreµ
+DANSES5.pdfµ5µLa polka russeµ
+DANSES5.pdfµ6µMonsieur de la Mirandaµ
+DANSES5.pdfµ7µLe cercle circassienµ
+DANSES5.pdfµ8µLes gars de Guilliersµ
+DANSES5.pdfµ9µLe berlingotµ
+DANSES5.pdfµ10µLes lavandièresµ
+DANSES5.pdfµ11µLa dérobée de Montcontourµ
+DANSES5.pdfµ12µLe carillonµ
+DANSES5.pdfµ13µLe sacristainµ
+DANSES5.pdfµ14µLes allumettesµ
+DANSES5.pdfµ15µLa pascoviaµ
+DANSES5.pdfµ16µLa boulangèreµ
+DANSES5.pdfµ17µLe galop nantaisµ
+DANSES5.pdfµ18µLa belle anguilleµ
+DANSES5.pdfµ19µLes drolettesµ
+DANSES5.pdfµ20µL'andouilleµ
+DANSES5.pdfµ21µLa violetteµ
+DANSES5.pdfµ22µLe pas des patineursµ
+DANSES5.pdfµ23µMains aux genouxµ
+DANSES5.pdfµ24µLa cochinchineµ
+DANSES5.pdfµ25µAvant-deux des jeunesµ
+DANSES5.pdfµ26µLa polka des lapinsµ
+DANSES5.pdfµ27µTrois coups de talonµ
+DANSES5.pdfµ28µDétournons les allumettesµ
+DANSES5.pdfµ29µLa contredanse écossaiseµ
+DANSES6.pdfµ7µAvant-deux de La Mézièresµ
+DANSES6.pdfµ8µAvant-dux de Pléboulleµ
+DANSES6.pdfµ9µAvant-deux de St Justµ
+DANSES6.pdfµ10µPastourelle des Touchesµ
+DANSES6.pdfµ11µAvant-deux de St Broladreµ
+DANSES6.pdfµ12µAvant-deux de Bazougesµ
+DANSES6.pdfµ13µAvant-deux de Jugonµ
+DANSES6.pdfµ14µAvant-quatre de Legéµ
+DANSES6.pdfµ15µAvant-deux d'Ercéµ
+DANSES6.pdfµ16µChaîne des damesµ
+DANSES6.pdfµ17µPastourelle du Gourayµ
+DANSES6.pdfµ18µBal des Hollandaisµ
+DANSES6.pdfµ19µiTrompeuse de Jansµ
+DANSES6.pdfµ20µPartez quatre chainezµ
+DANSES6.pdfµ21µContredanses de l'Arguenonµ
+DANSES6.pdfµ22µAvant-deux de St Martinµ
+DANSES6.pdfµ23µTrompeuse de Dinanµ
+DANSES6.pdfµ24µAvant-deux de Nazarethµ
+DANSES6.pdfµ25µAvant-deux de Chateaubriantµ
+DANSES6.pdfµ26µQuadrille de Grandchamp - Avant-deuxµ
+DANSES6.pdfµ27µQuadrille de Grandchamp - Avant-troisµ
+DANSES6.pdfµ28µQuadrille de Grandchamp - Avant-quatreµ
+DANSES6.pdfµ29µQuadrille de Grandchamp - Figure généraleµ
+DANSES7.pdfµ9µRond pagan mode Lilia 8 tpsµ
+DANSES7.pdfµ10µGavotte de St Renanµ
+DANSES7.pdfµ11µiLes lauriers vertsµ
+DANSES7.pdfµ12µRond Pagan mode Plouguerneauµ
+DANSES7.pdfµ13µGavotte de Lannilisµ
+DANSES7.pdfµ14µDans bro Ac'hµ
+DANSES7.pdfµ15µRond pagan - Un alligµ
+DANSES7.pdfµ16µGavotte de Landedaµ
+DANSES7.pdfµ17µTourbillon de Kerlouanµ
+DANSES7.pdfµ18µRond d'Ouessantµ
+DANSES7.pdfµ19µGavotte du Conquetµ
+DANSES7.pdfµ20µRond pagan mode Guissenyµ
+DANSES7.pdfµ21µGavotte de Plouarzelµ
+DANSES7.pdfµ22µRond pagan mode Lilia 6tpsµ
+DANSES7.pdfµ23µLaridé de Lanrivoaréµ
+DANSES7.pdfµ24µGavotte de Plouzanéµ
+DANSES7.pdfµ25µRond de Landedaµ
+DANSES7.pdfµ26µSteredennµ
+DANSES7.pdfµ27µRond de Molèneµ
+DANSES7.pdfµ28µDans Moultµ
+DANSES7.pdfµ29µRond pagan mode Brignoganµ
 DANSES8.pdfµ7µRonde aux trois Pasµ
 DANSES8.pdfµ8µRonde de l'Ile de Batzµ
 DANSES8.pdfµ9µTourbillon de Carantecµ
 DANSES8.pdfµ10µTourbillon du Dourduffµ
 DANSES8.pdfµ11µAvant-deux du petit Bonhommeµ
-DANSES8.pdfµ12µDans Oignonµ
+DANSES8.pdfµ12µDans Onionµ
 DANSES8.pdfµ14µDans Leon mode dite de Pleyber-Christµ
 DANSES8.pdfµ16µDans Leon mode dite de Sizunµ
 DANSES8.pdfµ18µDans Leon mode dite de Locmelarµ
 DANSES8.pdfµ20µDans Leon mode dite du Trehouµ
 DANSES8.pdfµ22µDans Leon mode dite de la Roche Mauriceµ
 DANSES8.pdfµ24µDans Leon mode dite de Pencranµ
-DANSES8.pdfµ26µDans Amouroustedµ
+DANSES8.pdfµ26µDans an amouroustedµ
 DANSES8.pdfµ27µDans Sizun (coté Cornouaille)µ
 DANSES8.pdfµ28µDans Sizun (coté Léon)µ
 DANSES8.pdfµ29µAeroplane de Sizunµ
 DANSES8.pdfµ30µAeroplane de Lampol Guimiliauµ
 DANSES8.pdfµ31µDans Kefµ
+DANSES8.pdfµ31µBal à 2 Kefµ
+DANSES8.pdfµ31µBal à 4 Kefµ
+DANSES8.pdfµ31µBal collectif Kefµ
 DANSES8.pdfµ33µGavotte d'honneur de Commanaµ
 DANSES9.pdfµ5µGavotte de l'Avenµ
 DANSES9.pdfµ8µBals de l'Avenµ
