@@ -37,79 +37,73 @@ DANSES1.pdfµ29µValse Ecossaiseµ
 DANSES1.pdfµ30µMazurkaµ
 DANSES2.pdfµ5µLaride de Kervignacµ
 DANSES2.pdfµ6µRidée de Saint Perreuxµ
-DANSES2.pdfµ7µLaridé de aµ
-DANSES2.pdfµ8µµ
-DANSES2.pdfµ9µµ
-DANSES2.pdfµ10µµ
-DANSES2.pdfµ11µµ
-DANSES2.pdfµ12µµ
-DANSES2.pdfµ13µµ
-DANSES2.pdfµ14µµ
-DANSES2.pdfµ15µµ
-DANSES2.pdfµ16µµ
-DANSES2.pdfµ17µµ
-DANSES2.pdfµ18µµ
-DANSES2.pdfµ19µµ
-DANSES2.pdfµ20µµ
-DANSES2.pdfµ21µµ
-DANSES2.pdfµ22µµ
-DANSES2.pdfµ23µµ
-DANSES2.pdfµ24µµ
-DANSES2.pdfµ25µµ
-DANSES2.pdfµ26µµ
-DANSES2.pdfµ27µµ
-DANSES2.pdfµ28µµ
-DANSES2.pdfµ29µµ
-DANSES3.pdfµ5µµ
-DANSES3.pdfµ6µµ
-DANSES3.pdfµ7µµ
-DANSES3.pdfµ8µµ
-DANSES3.pdfµ9µµ
-DANSES3.pdfµ10µµ
-DANSES3.pdfµ11µµ
-DANSES3.pdfµ12µµ
-DANSES3.pdfµ13µµ
-DANSES3.pdfµ14µµ
-DANSES3.pdfµ15µµ
-DANSES3.pdfµ16µµ
-DANSES3.pdfµ17µµ
-DANSES3.pdfµ18µµ
-DANSES3.pdfµ19µµ
-DANSES3.pdfµ20µµ
-DANSES3.pdfµ21µµ
-DANSES3.pdfµ22µµ
-DANSES3.pdfµ23µµ
-DANSES3.pdfµ24µµ
-DANSES3.pdfµ25µµ
-DANSES3.pdfµ26µµ
-DANSES3.pdfµ27µµ
-DANSES3.pdfµ28µµ
-DANSES3.pdfµ29µµ
-DANSES4.pdfµ5µµ
-DANSES4.pdfµ6µµ
-DANSES4.pdfµ7µµ
-DANSES4.pdfµ8µµ
-DANSES4.pdfµ9µµ
-DANSES4.pdfµ10µµ
-DANSES4.pdfµ11µµ
-DANSES4.pdfµ12µµ
-DANSES4.pdfµ13µµ
-DANSES4.pdfµ14µµ
-DANSES4.pdfµ15µµ
-DANSES4.pdfµ16µµ
-DANSES4.pdfµ17µµ
-DANSES4.pdfµ18µµ
-DANSES4.pdfµ19µµ
-DANSES4.pdfµ20µµ
-DANSES4.pdfµ21µµ
-DANSES4.pdfµ22µµ
-DANSES4.pdfµ23µµ
-DANSES4.pdfµ24µµ
-DANSES4.pdfµ25µµ
-DANSES4.pdfµ26µµ
-DANSES4.pdfµ27µµ
-DANSES4.pdfµ28µµ
-DANSES4.pdfµ29µµ
+DANSES2.pdfµ7µLaridé de Saint Jean de Brévelayµ
+DANSES2.pdfµ8µAn Dro de Bignanµ
+DANSES2.pdfµ9µRond Paludierµ
+DANSES2.pdfµ11µBal Paludierµ
+DANSES2.pdfµ12µSuite Fiselµ
+DANSES2.pdfµ13µGavotte Fiselµ
+DANSES2.pdfµ14µBal Fiselµ
+DANSES2.pdfµ16µJibidiµ
+DANSES2.pdfµ17µGavotte Lescouetµ
+DANSES2.pdfµ18µGavotte des Notables An Hini Vrazµ
+DANSES2.pdfµ19µGavotte d'Honneur du Pays Bigoudenµ
+DANSES2.pdfµ20µGavotte du Bas Léonµ
+DANSES2.pdfµ21µSuite Kefµ
+DANSES2.pdfµ22µBal Kefµ
+DANSES2.pdfµ23µDans Leonµ
+DANSES2.pdfµ24µKerouezeeµ
+DANSES2.pdfµ25µAvant-Deux du Tregorµ
+DANSES2.pdfµ26µLa Perigourdineµ
+DANSES2.pdfµ27µLa Circassienneµ
+DANSES2.pdfµ28µA Paris sur le Pavéµ
+DANSES2.pdfµ29µBal a Quatreµ
+DANSES3.pdfµ6µKeijajµ
+DANSES3.pdfµ7µDans A-Sailheuµ
+DANSES3.pdfµ8µKas A-Barhµ
+DANSES3.pdfµ9µAn Dro d'Elvenµ
+DANSES3.pdfµ10µLaride de Bignanµ
+DANSES3.pdfµ11µDans Tregerµ
+DANSES3.pdfµ13µBal Tregerµ
+DANSES3.pdfµ14µPassepied Tregerµ
+DANSES3.pdfµ15µJabadao du Tregorµ
+DANSES3.pdfµ16µFeuntenn Wennµ
+DANSES3.pdfµ17µDans Roundµ
+DANSES3.pdfµ18µLaride de Pontivyµ
+DANSES3.pdfµ19µBal Pontivienµ
+DANSES3.pdfµ20µGavotte de Plougastelµ
+DANSES3.pdfµ21µGavotte Tinduffµ
+DANSES3.pdfµ22µSuite de Pouldreuzic (suite Bigoudene)µ
+DANSES3.pdfµ23µiBal de Pouldreuzicµ
+DANSES3.pdfµ24µJabadaoµ
+DANSES3.pdfµ25µJibidiµ
+DANSES3.pdfµ26µDans an Amourustedµ
+DANSES3.pdfµ27µTro'Leurµ
+DANSES3.pdfµ28µiDans Sizunµ
+DANSES3.pdfµ29µGavotte du Capµ
+DANSES4.pdfµ6µRidee de Josselinµ
+DANSES4.pdfµ7µContreRondµ
+DANSES4.pdfµ8µAvant-Deux des Chiffonniersµ
+DANSES4.pdfµ9µMaraichineµ
+DANSES4.pdfµ10µPassepied de Saint Vincentµ
+DANSES4.pdfµ11µBal de Dinanµ
+DANSES4.pdfµ12µLa Veuzeµ
+DANSES4.pdfµ13µRond de Saint Dolayµ
+DANSES4.pdfµ14µDraoµ
+DANSES4.pdfµ15µBal à Quatre Sautsµ
+DANSES4.pdfµ16µAvant-Deux de Vritzµ
+DANSES4.pdfµ17µTour sur le Dreµ
+DANSES4.pdfµ18µLes Avocatsµ
+DANSES4.pdfµ19µGuedennes de Langueuxµ
+DANSES4.pdfµ20µContreRond de Saint Laurentµ
+DANSES4.pdfµ21µRond de Sautron Simpleµ
+DANSES4.pdfµ22µRond de Sautron Piqué-Tournéµ
+DANSES4.pdfµ23µBal a Deux  de Saint Vincentµ
+DANSES4.pdfµ24µLa Oieµ
+DANSES4.pdfµ25µPilé Menuµ
+DANSES4.pdfµ26µAéroplane d'Acignéµ
+DANSES4.pdfµ27µRonde Casée de Dolµ
+DANSES4.pdfµ28µRidée à Sept Tempsµ
 DANSES5.pdfµ4µLe moulinetµ
 DANSES5.pdfµ4µLe chapeletµ
 DANSES5.pdfµ4µLa fougèreµ
