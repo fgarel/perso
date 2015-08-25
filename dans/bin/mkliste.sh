@@ -1,6 +1,8 @@
 #!/bin/sh
 
-DATE='20142015/20150407'
+DATE='20142015/20150512'
+DATE='20142015/20150616'
+DATE='20142015/20150623'
 
 #echo "./mkliste.sh > /media/fred/TOSHIBA\ EXT/MusiqueBretonne/Musique/triParDate/$DATE/liste.txt"
 
