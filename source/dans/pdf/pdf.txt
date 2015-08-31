@@ -1,8 +1,8 @@
 FichierPDFµPageµNomDanseµLocalisationµFamilleµFormeµPasEtBrasµStyleDeroulementµAccompagnementMusical
 DANSES1.pdfµ6µHanter Droµ
 DANSES1.pdfµ7µRond de Landédaµ
-DANSES1.pdfµ8µRidée à six Tempsµ
-DANSES1.pdfµ9µLaridé à 8 Tempsµ
+DANSES1.pdfµ8µRidée à Six Tempsµ
+DANSES1.pdfµ9µLaridé 8 Tempsµ
 DANSES1.pdfµ10µSuite de Loudéac (1ère et 3ème Partie) Rond de Loudéacµ
 DANSES1.pdfµ11µSuite de Loudéac (2ème Partie) Baleuµ
 DANSES1.pdfµ12µSuite de Loudéac (1ère ou 3ème Partie) Rond de Loudéac Piquéeµ
@@ -22,9 +22,10 @@ DANSES1.pdfµ26µAvant-Deux de Traversµ
 DANSES1.pdfµ28µScottishµ
 DANSES1.pdfµ29µValse Ecossaiseµ
 DANSES1.pdfµ30µMazurkaµ
-DANSES2.pdfµ5µLaride de Kervignacµ
+DANSES2.pdfµ5µLaridé de Kervignac (1ère version)µ
+DANSES2.pdfµ5µLaridé de Kervignac (2ème version)µ
 DANSES2.pdfµ6µRidée de Saint Perreuxµ
-DANSES2.pdfµ7µLaridé de Saint Jean de Brévelayµ
+DANSES2.pdfµ7µLaridé de Saint Jean Brévelayµ
 DANSES2.pdfµ8µAn Dro de Bignanµ
 DANSES2.pdfµ9µSuite Paludière (1ère Partie) le rond paludierµ
 DANSES2.pdfµ11µSuite Paludière (2ème Partie) le bal paludierµ
@@ -41,7 +42,7 @@ DANSES2.pdfµ22µSuite Keff Bal à 2 Keffµ
 DANSES2.pdfµ23µDans Leonµ
 DANSES2.pdfµ24µKérouézéeµ
 DANSES2.pdfµ25µAvant-Deux du Trégorµ
-DANSES2.pdfµ26µLa Perigourdineµ
+DANSES2.pdfµ26µLa Périgourdineµ
 DANSES2.pdfµ27µCircassienneµ
 DANSES2.pdfµ28µA Paris sur le pavéµ
 DANSES2.pdfµ29µBal à Quatreµ
@@ -49,15 +50,15 @@ DANSES3.pdfµ6µKeijajµ
 DANSES3.pdfµ7µDans A-Sailheùµ
 DANSES3.pdfµ8µKas A-Barhµ
 DANSES3.pdfµ9µAn Dro d'Elvenµ
-DANSES3.pdfµ10µLaride de Bignanµ
+DANSES3.pdfµ10µLaridé de Bignanµ
 DANSES3.pdfµ11µSuite Treger (1ère Partie) Dans Tregerµ
 DANSES3.pdfµ13µSuite Treger (2ème Partie) Bal Tregerµ
 DANSES3.pdfµ14µSuite Treger (3ème Partie) Passepied Tregerµ
 DANSES3.pdfµ15µJabadao du Tregorµ
 DANSES3.pdfµ16µFeunteun Wenn (fontaine blanche)µ
 DANSES3.pdfµ17µDans Roundµ
-DANSES3.pdfµ18µLaride de Pontivyµ
-DANSES3.pdfµ19µBal de Pontivy
+DANSES3.pdfµ18µLaridé Gavotteµ
+DANSES3.pdfµ19µBal de Pontivyµ
 DANSES3.pdfµ20µGavotte de Plougastelµ
 DANSES3.pdfµ21µGavotte Tinduffµ
 DANSES3.pdfµ22µSuite Bigoudène mode Pouldreuzic (1ère Partie) la gavotteµ
@@ -68,8 +69,8 @@ DANSES3.pdfµ26µDans An Amouroustedµ
 DANSES3.pdfµ27µTro'Leurµ
 DANSES3.pdfµ28µDans Sizunµ
 DANSES3.pdfµ29µGavotte du Capµ
-DANSES4.pdfµ6µRidee de Josselinµ
-DANSES4.pdfµ7µContreRond de Saint Laurentµ
+DANSES4.pdfµ6µRidée de Josselinµ
+DANSES4.pdfµ7µLe ContreRondµ
 DANSES4.pdfµ8µAvant-Deux des Chiffonniersµ
 DANSES4.pdfµ9µMaraichineµ
 DANSES4.pdfµ10µPassepied de Saint Vincentµ
@@ -82,14 +83,14 @@ DANSES4.pdfµ16µAvant-Deux de Vritzµ
 DANSES4.pdfµ17µTour sur le Dréµ
 DANSES4.pdfµ18µLes Avocatsµ
 DANSES4.pdfµ19µGuedennes de Langueuxµ
-DANSES4.pdfµ20µContreRond de Saint Laurentµ
+DANSES4.pdfµ20µLe ContreRond de Saint Laurentµ
 DANSES4.pdfµ21µRond de Sautron Simpleµ
 DANSES4.pdfµ22µRond de Sautron Piqué-Tournéµ
 DANSES4.pdfµ23µBal à Deux de Saint Vincentµ
 DANSES4.pdfµ24µLa Oieµ
 DANSES4.pdfµ25µPilé Menuµ
 DANSES4.pdfµ26µAéroplane d'Acignéµ
-DANSES4.pdfµ27µRonde Casée de Dolµ
+DANSES4.pdfµ27µRonde Cassée de Dolµ
 DANSES4.pdfµ28µRidée à Sept Tempsµ
 DANSES5.pdfµ4µLe moulinetµ
 DANSES5.pdfµ4µLe chapeletµ
@@ -97,7 +98,7 @@ DANSES5.pdfµ4µLa Fougèreµ
 DANSES5.pdfµ5µLa polka russeµ
 DANSES5.pdfµ6µMonsieur de la Mirandaµ
 DANSES5.pdfµ7µLe cercle circassienµ
-DANSES5.pdfµ8µLes gars de Guilliersµ
+DANSES5.pdfµ8µLes Gars de Guilliersµ
 DANSES5.pdfµ9µLe berlingotµ
 DANSES5.pdfµ10µLes lavandièresµ
 DANSES5.pdfµ11µLa dérobée de Montcontourµ
@@ -138,31 +139,31 @@ DANSES6.pdfµ22µAvant-Deux de St Martin sur Oustµ
 DANSES6.pdfµ23µTrompeuse de Dinanµ
 DANSES6.pdfµ24µAvant-Deux de Nazarethµ
 DANSES6.pdfµ25µAvant-Deux de Chateaubriantµ
-DANSES6.pdfµ26µQuadrille de Grandchamp - Avant-Deuxµ
-DANSES6.pdfµ27µQuadrille de Grandchamp - Avant-Troisµ
-DANSES6.pdfµ28µQuadrille de Grandchamp - Avant-Quatreµ
-DANSES6.pdfµ29µQuadrille de Grandchamp - Figure généraleµ
-DANSES7.pdfµ9µRond pagan mode Lilia 8 tpsµ
+DANSES6.pdfµ26µLe Quadrille de Grandchamp (1ère Partie) Avant-Deuxµ
+DANSES6.pdfµ27µLe Quadrille de Grandchamp (2ème Partie) Avant-Troisµ
+DANSES6.pdfµ28µLe Quadrille de Grandchamp (3ème Partie) Avant-Quatreµ
+DANSES6.pdfµ29µLe Quadrille de Grandchamp (4ème Partie) Figure généraleµ
+DANSES7.pdfµ9µRond Pagan mode Lilia 8 tempsµ
 DANSES7.pdfµ10µGavotte de St Renanµ
 DANSES7.pdfµ11µLes lauriers vertsµ
 DANSES7.pdfµ12µRond Pagan mode Plouguerneauµ
 DANSES7.pdfµ13µGavotte de Lannilisµ
 DANSES7.pdfµ14µDans Bro Ac'hµ
-DANSES7.pdfµ15µRond pagan - Un alligµ
-DANSES7.pdfµ16µGavotte de Landedaµ
+DANSES7.pdfµ15µRond Pagan 'Un Allig'µ
+DANSES7.pdfµ16µGavotte de Landédaµ
 DANSES7.pdfµ17µTourbillon de Kerlouanµ
 DANSES7.pdfµ18µRond d'Ouessantµ
 DANSES7.pdfµ19µGavotte du Conquetµ
-DANSES7.pdfµ20µRond pagan mode Guissenyµ
+DANSES7.pdfµ20µRond Pagan mode Guissenyµ
 DANSES7.pdfµ21µGavotte de Plouarzelµ
-DANSES7.pdfµ22µRond pagan mode Lilia 6tpsµ
+DANSES7.pdfµ22µRond Pagan mode Lilia 6 tempsµ
 DANSES7.pdfµ23µLaridé de Lanrivoaréµ
 DANSES7.pdfµ24µGavotte de Plouzanéµ
-DANSES7.pdfµ25µRond de Landedaµ
+DANSES7.pdfµ25µRond de Landédaµ
 DANSES7.pdfµ26µSteredennµ
 DANSES7.pdfµ27µRond de Molèneµ
 DANSES7.pdfµ28µDans Moultµ
-DANSES7.pdfµ29µRond pagan mode Brignoganµ
+DANSES7.pdfµ29µRond Pagan mode Brignoganµ
 DANSES8.pdfµ7µRonde aux trois Pasµ
 DANSES8.pdfµ8µRonde de l'Ile de Batzµ
 DANSES8.pdfµ9µTourbillon de Carantecµ
