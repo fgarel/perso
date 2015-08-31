@@ -6,6 +6,12 @@
 # This converts the audio from .mp4 files that include video (e.g. youtube.com streams) to
 # .mp3 files.
 #
+
+#
+# autres doc
+# http://askubuntu.com/questions/84584/converting-mp4-to-mp3
+# http://forum.ubuntu-fr.org/viewtopic.php?id=334970
+#
  
  
 # If file exists, set $FILE
@@ -38,6 +44,8 @@ base=$(basename "${FILE}" .mp4)
 #
 #   mplayer  -vc null -vo null -nocorrect-pts -ao pcm:fast "${FILE}"
 #
+# option -ni (non entrelacé ?)
+
 mplayer -vc null -vo null -nocorrect-pts -ao pcm:waveheader "${FILE}"
 RV=$?
 if [[ $RV != 0 ]] ; then
