@@ -3,20 +3,20 @@ DANSES1.pdfµ6µHanter Droµ
 DANSES1.pdfµ7µRond de Landédaµ
 DANSES1.pdfµ8µRidée à six Tempsµ
 DANSES1.pdfµ9µLaridé à 8 Tempsµ
-DANSES1.pdfµ10µRond de Loudéacµ
-DANSES1.pdfµ11µBaleuµ
-DANSES1.pdfµ12µRonde de Loudéac Piquéeµ
-DANSES1.pdfµ13µRiquegnéeµ
-DANSES1.pdfµ14µGavotte des montagnesµ
-DANSES1.pdfµ15µTamm Kreizµ
-DANSES1.pdfµ16µDans ar Podou Ferµ
+DANSES1.pdfµ10µSuite de Loudéac (1ère et 3ème Partie) Rond de Loudéacµ
+DANSES1.pdfµ11µSuite de Loudéac (2ème Partie) Baleuµ
+DANSES1.pdfµ12µSuite de Loudéac (1ère ou 3ème Partie) Rond de Loudéac Piquéeµ
+DANSES1.pdfµ13µSuite de Loudéac (4ème Partie) Riquegnéeµ
+DANSES1.pdfµ14µSuite des montagnes (1ère et 3ème Partie) la Gavotteµ
+DANSES1.pdfµ15µSuite des montagnes (2ème Partie) le Tamm Kreizµ
+DANSES1.pdfµ16µSuite des montagnes (3ème ou 4ème Partie) Dans ar Podoù Ferµ
 DANSES1.pdfµ17µKost Ar C'Hoadµ
 DANSES1.pdfµ18µAn Dro de Baudµ
 DANSES1.pdfµ19µAn Dro Retourné Chanj Tuµ
 DANSES1.pdfµ21µRond de St Vincentµ
 DANSES1.pdfµ22µRond de Sautron Piquéµ
-DANSES1.pdfµ23µDans Plinµ
-DANSES1.pdfµ24µBal Plinµ
+DANSES1.pdfµ23µSuite Fanch (1ère et 3ème Partie) Dans Plinnµ
+DANSES1.pdfµ24µSuite Fanch (2ème Partie) Bal Plinnµ
 DANSES1.pdfµ25µPach Piµ
 DANSES1.pdfµ26µAvant-Deux de Traversµ
 DANSES1.pdfµ28µScottishµ
@@ -26,50 +26,50 @@ DANSES2.pdfµ5µLaride de Kervignacµ
 DANSES2.pdfµ6µRidée de Saint Perreuxµ
 DANSES2.pdfµ7µLaridé de Saint Jean de Brévelayµ
 DANSES2.pdfµ8µAn Dro de Bignanµ
-DANSES2.pdfµ9µRond Paludierµ
-DANSES2.pdfµ11µBal Paludierµ
+DANSES2.pdfµ9µSuite Paludière (1ère Partie) le rond paludierµ
+DANSES2.pdfµ11µSuite Paludière (2ème Partie) le bal paludierµ
 DANSES2.pdfµ12µSuite Fiselµ
-DANSES2.pdfµ13µGavotte Fiselµ
-DANSES2.pdfµ14µBal Fiselµ
+DANSES2.pdfµ13µSuite Fisel (1ère et 3ème Partie) la gavotteµ
+DANSES2.pdfµ14µSuite Fisel (2ème Partie) le balµ
 DANSES2.pdfµ16µJibidiµ
-DANSES2.pdfµ17µGavotte Lescouetµ
+DANSES2.pdfµ17µGavotte Lescouëtµ
 DANSES2.pdfµ18µGavotte des Notables An Hini Vrazµ
 DANSES2.pdfµ19µGavotte d'Honneur du Pays Bigoudenµ
 DANSES2.pdfµ20µGavotte du Bas Léonµ
-DANSES2.pdfµ21µSuite Kefµ
-DANSES2.pdfµ22µBal Kefµ
+DANSES2.pdfµ21µSuite Keff Dans Keffµ
+DANSES2.pdfµ22µSuite Keff Bal à 2 Keffµ
 DANSES2.pdfµ23µDans Leonµ
-DANSES2.pdfµ24µKerouezeeµ
+DANSES2.pdfµ24µKérouézéeµ
 DANSES2.pdfµ25µAvant-Deux du Trégorµ
 DANSES2.pdfµ26µLa Perigourdineµ
-DANSES2.pdfµ27µLa Circassienneµ
+DANSES2.pdfµ27µCircassienneµ
 DANSES2.pdfµ28µA Paris sur le pavéµ
 DANSES2.pdfµ29µBal à Quatreµ
 DANSES3.pdfµ6µKeijajµ
-DANSES3.pdfµ7µDans A-Sailheuµ
+DANSES3.pdfµ7µDans A-Sailheùµ
 DANSES3.pdfµ8µKas A-Barhµ
 DANSES3.pdfµ9µAn Dro d'Elvenµ
 DANSES3.pdfµ10µLaride de Bignanµ
-DANSES3.pdfµ11µDans Tregerµ
-DANSES3.pdfµ13µBal Tregerµ
-DANSES3.pdfµ14µPassepied Tregerµ
+DANSES3.pdfµ11µSuite Treger (1ère Partie) Dans Tregerµ
+DANSES3.pdfµ13µSuite Treger (2ème Partie) Bal Tregerµ
+DANSES3.pdfµ14µSuite Treger (3ème Partie) Passepied Tregerµ
 DANSES3.pdfµ15µJabadao du Tregorµ
-DANSES3.pdfµ16µFeuntenn Wennµ
+DANSES3.pdfµ16µFeunteun Wenn (fontaine blanche)µ
 DANSES3.pdfµ17µDans Roundµ
 DANSES3.pdfµ18µLaride de Pontivyµ
-DANSES3.pdfµ19µBal Pontivienµ
+DANSES3.pdfµ19µBal de Pontivy
 DANSES3.pdfµ20µGavotte de Plougastelµ
 DANSES3.pdfµ21µGavotte Tinduffµ
-DANSES3.pdfµ22µSuite de Pouldreuzic (suite Bigoudene)µ
-DANSES3.pdfµ23µBal de Pouldreuzicµ
-DANSES3.pdfµ24µJabadaoµ
+DANSES3.pdfµ22µSuite Bigoudène mode Pouldreuzic (1ère Partie) la gavotteµ
+DANSES3.pdfµ23µSuite Bigoudène mode Pouldreuzic (2ème Partie) le balµ
+DANSES3.pdfµ24µSuite Bigoudène mode Pouldreuzic (3ème Partie) le jabadaoµ
 DANSES3.pdfµ25µJibidiµ
-DANSES3.pdfµ26µDans an Amourustedµ
+DANSES3.pdfµ26µDans An Amouroustedµ
 DANSES3.pdfµ27µTro'Leurµ
 DANSES3.pdfµ28µDans Sizunµ
 DANSES3.pdfµ29µGavotte du Capµ
 DANSES4.pdfµ6µRidee de Josselinµ
-DANSES4.pdfµ7µContreRondµ
+DANSES4.pdfµ7µContreRond de Saint Laurentµ
 DANSES4.pdfµ8µAvant-Deux des Chiffonniersµ
 DANSES4.pdfµ9µMaraichineµ
 DANSES4.pdfµ10µPassepied de Saint Vincentµ
@@ -79,7 +79,7 @@ DANSES4.pdfµ13µRond de Saint Dolayµ
 DANSES4.pdfµ14µDraoµ
 DANSES4.pdfµ15µBal à Quatre Sautsµ
 DANSES4.pdfµ16µAvant-Deux de Vritzµ
-DANSES4.pdfµ17µTour sur le Dreµ
+DANSES4.pdfµ17µTour sur le Dréµ
 DANSES4.pdfµ18µLes Avocatsµ
 DANSES4.pdfµ19µGuedennes de Langueuxµ
 DANSES4.pdfµ20µContreRond de Saint Laurentµ
@@ -93,7 +93,7 @@ DANSES4.pdfµ27µRonde Casée de Dolµ
 DANSES4.pdfµ28µRidée à Sept Tempsµ
 DANSES5.pdfµ4µLe moulinetµ
 DANSES5.pdfµ4µLe chapeletµ
-DANSES5.pdfµ4µLa fougèreµ
+DANSES5.pdfµ4µLa Fougèreµ
 DANSES5.pdfµ5µLa polka russeµ
 DANSES5.pdfµ6µMonsieur de la Mirandaµ
 DANSES5.pdfµ7µLe cercle circassienµ
@@ -147,7 +147,7 @@ DANSES7.pdfµ10µGavotte de St Renanµ
 DANSES7.pdfµ11µLes lauriers vertsµ
 DANSES7.pdfµ12µRond Pagan mode Plouguerneauµ
 DANSES7.pdfµ13µGavotte de Lannilisµ
-DANSES7.pdfµ14µDans bro Ac'hµ
+DANSES7.pdfµ14µDans Bro Ac'hµ
 DANSES7.pdfµ15µRond pagan - Un alligµ
 DANSES7.pdfµ16µGavotte de Landedaµ
 DANSES7.pdfµ17µTourbillon de Kerlouanµ
@@ -168,26 +168,32 @@ DANSES8.pdfµ8µRonde de l'Ile de Batzµ
 DANSES8.pdfµ9µTourbillon de Carantecµ
 DANSES8.pdfµ10µTourbillon du Dourduffµ
 DANSES8.pdfµ11µAvant-Deux du petit bonhommeµ
-DANSES8.pdfµ12µDans Onionµ
+DANSES8.pdfµ12µDans An Onionµ
 DANSES8.pdfµ14µDans Léon mode dite de Pleyber-Christµ
 DANSES8.pdfµ16µDans Léon mode dite de Sizunµ
 DANSES8.pdfµ18µDans Léon mode dite de Locmelarµ
-DANSES8.pdfµ20µDans Léon mode dite du Trehouµ
-DANSES8.pdfµ22µDans Léon mode dite de la Roche Mauriceµ
+DANSES8.pdfµ20µDans Léon mode dite de Trehouµ
+DANSES8.pdfµ22µDans Léon mode dite de La Roche Mauriceµ
 DANSES8.pdfµ24µDans Léon mode dite de Pencranµ
-DANSES8.pdfµ26µDans an amouroustedµ
-DANSES8.pdfµ27µDans Sizun (coté Cornouaille)µ
-DANSES8.pdfµ28µDans Sizun (coté Léon)µ
+DANSES8.pdfµ26µDans An Amouroustedµ
+DANSES8.pdfµ27µDans Sizun coté Cornouailleµ
+DANSES8.pdfµ28µDans Sizun coté Léonµ
 DANSES8.pdfµ29µAéroplane de Sizunµ
-DANSES8.pdfµ30µAéroplane de Lampol Guimiliauµ
-DANSES8.pdfµ31µDans Kefµ
-DANSES8.pdfµ31µBal à 2 Kefµ
-DANSES8.pdfµ31µBal à 4 Kefµ
-DANSES8.pdfµ31µBal collectif Kefµ
-DANSES8.pdfµ33µGavotte d'honneur de Commanaµ
-DANSES9.pdfµ5µGavotte de l'Avenµ
-DANSES9.pdfµ8µBals de l'Avenµ
-DANSES9.pdfµ11µJabadao de l'Avenµ
+DANSES8.pdfµ30µAéroplane de Lampol-Guimiliauµ
+DANSES8.pdfµ31µSuite Keff Dans Keffµ
+DANSES8.pdfµ31µSuite Keff Bal à 2 Keffµ
+DANSES8.pdfµ31µSuite Keff Bal à 4 Keffµ
+DANSES8.pdfµ31µSuite Keff Bal collectif Keffµ
+DANSES8.pdfµ33µGavotte d'Honneur de Commanaµ
+DANSES9.pdfµ5µSuite Aven mode Pont-Aven 1 la gavotteµ
+DANSES9.pdfµ5µSuite Aven mode Bannalec 1 la gavotteµ
+DANSES9.pdfµ5µSuite Aven mode Fouesnant 1 la gavotteµ
+DANSES9.pdfµ8µSuite Aven mode Pont-Aven 2 les balsµ
+DANSES9.pdfµ8µSuite Aven mode Bannalec 2 les balsµ
+DANSES9.pdfµ8µSuite Aven mode Fouesnant 2 les balsµ
+DANSES9.pdfµ11µSuite Aven mode Pont-Aven 3 le jabadaoµ
+DANSES9.pdfµ11µSuite Aven mode Bannalec 3 le jabadaoµ
+DANSES9.pdfµ11µSuite Aven mode Fouesnant 3 le jabadaoµ
 DANSES9.pdfµ13µGymnaskaµ
-DANSES9.pdfµ14µAr Skubelµ
-DANSES9.pdfµ15µStoupig ou Petistoupµ
+DANSES9.pdfµ14µDans Ar Skubellµ
+DANSES9.pdfµ15µStoupigµ

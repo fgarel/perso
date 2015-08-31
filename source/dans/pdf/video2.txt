@@ -1,22 +1,22 @@
-Suite de Loudéac (1ère et 3ème Partie) la ronde,Yves_LeBlanc_01/VIDEO_TS/VTS_01_1.VOB
-Suite de Loudéac (1ère ou 3ème Partie) la ronde piquée (variante de la ronde),Yves_LeBlanc_01/VIDEO_TS/VTS_02_1.VOB
-SUite de Loudéac (4ème Partie) la riquegnée,Yves_LeBlanc_01/VIDEO_TS/VTS_03_1.VOB
+Suite de Loudéac (1ère et 3ème Partie) Rond de Loudéac,Yves_LeBlanc_01/VIDEO_TS/VTS_01_1.VOB
+Suite de Loudéac (1ère ou 3ème Partie) Rond de Loudéac Piquée,Yves_LeBlanc_01/VIDEO_TS/VTS_02_1.VOB
+SUite de Loudéac (4ème Partie) Riquegnée,Yves_LeBlanc_01/VIDEO_TS/VTS_03_1.VOB
 Hanter Dro,Yves_LeBlanc_01/VIDEO_TS/VTS_04_1.VOB
 Rond de Landeda,Yves_LeBlanc_01/VIDEO_TS/VTS_05_1.VOB
 Laridé 8 temps,Yves_LeBlanc_01/VIDEO_TS/VTS_06_1.VOB
-Suite des montagnes (1ère et 3ème Partie) la gavotte,Yves_LeBlanc_01/VIDEO_TS/VTS_07_1.VOB
-Suite de Loudéac (2ème Partie) le baleu,Yves_LeBlanc_01/VIDEO_TS/VTS_08_1.VOB
+Suite des montagnes (1ère et 3ème Partie) la Gavotte,Yves_LeBlanc_01/VIDEO_TS/VTS_07_1.VOB
+Suite de Loudéac (2ème Partie) Baleu,Yves_LeBlanc_01/VIDEO_TS/VTS_08_1.VOB
 Mazurka,Yves_LeBlanc_01/VIDEO_TS/VTS_09_1.VOB
 Ridée 6 temps,Yves_LeBlanc_01/VIDEO_TS/VTS_10_1.VOB
-Suite des montagnes (2ème Partie) le tamm kreiz,Yves_LeBlanc_01/VIDEO_TS/VTS_11_1.VOB
+Suite des montagnes (2ème Partie) le Tamm Kreiz,Yves_LeBlanc_01/VIDEO_TS/VTS_11_1.VOB
 Suite des montagnes (3ème ou 4ème Partie) Dans ar Podoù Fer,Yves_LeBlanc_01/VIDEO_TS/VTS_12_1.VOB
-Kost Er Hoed,Yves_LeBlanc_01/VIDEO_TS/VTS_13.1.VOB
+Kost Ar C'Hoad,Yves_LeBlanc_01/VIDEO_TS/VTS_13.1.VOB
 An Dro,Yves_LeBlanc_01/VIDEO_TS/VTS_14_1.VOB
 An Dro Retourné Chanj Tu,Yves_LeBlanc_01/VIDEO_TS/VTS_15_1.VOB
 Rond de St Vincent,Yves_LeBlanc_01/VIDEO_TS/VTS_16_1.VOB
 Rond de Sautron Piqué,Yves_LeBlanc_01/VIDEO_TS/VTS_17_1.VOB
-Suite Fanch (1ère et 3ème Partie) Dans Plin,Yves_LeBlanc_01/VIDEO_TS/VTS_18_1.VOB
-Suite Fanch (2ème Partie) le Bal Plin,Yves_LeBlanc_01/VIDEO_TS/VTS_19_1.VOB
+Suite Fanch (1ère et 3ème Partie) Dans Plinn,Yves_LeBlanc_01/VIDEO_TS/VTS_18_1.VOB
+Suite Fanch (2ème Partie) Bal Plinn,Yves_LeBlanc_01/VIDEO_TS/VTS_19_1.VOB
 Pachpi,Yves_LeBlanc_01/VIDEO_TS/VTS_20_1.VOB
 Avant-Deux de Travers,Yves_LeBlanc_01/VIDEO_TS/VTS_21_1.VOB
 Scottish,Yves_LeBlanc_01/VIDEO_TS/VTS_22_1.VOB
@@ -24,21 +24,21 @@ Valse Ecossaise,Yves_LeBlanc_01/VIDEO_TS/VTS_23.1.VOB
 ,Yves_LeBlanc_01/VIDEO_TS/VTS_24_1.VOB
 An Dro de Bignan,Yves_LeBlanc_02/VIDEO_TS/VTS_01_1.VOB
 Suite Paludière (2ème Partie) le bal paludier,Yves_LeBlanc_02/VIDEO_TS/VTS_02_1.VOB
-Suite Fisel (1ère et 3ème Partie) Dans Fisel,Yves_LeBlanc_02/VIDEO_TS/VTS_03_1.VOB
+Suite Fisel (1ère et 3ème Partie) la gavotte,Yves_LeBlanc_02/VIDEO_TS/VTS_03_1.VOB
 Laridé de Kervignac (1ère version),Yves_LeBlanc_02/VIDEO_TS/VTS_04_1.VOB
 Laridé de Kervignac (2ème version),Yves_LeBlanc_02/VIDEO_TS/VTS_05_1.VOB
 Laridé de St Jean Brévelay,Yves_LeBlanc_02/VIDEO_TS/VTS_06_1.VOB
-Suite Fisel (2ème Partie) le Bal Fisel,Yves_LeBlanc_02/VIDEO_TS/VTS_07_1.VOB
+Suite Fisel (2ème Partie) le bal,Yves_LeBlanc_02/VIDEO_TS/VTS_07_1.VOB
 Suite Paludière (1ère Partie) le rond paludier,Yves_LeBlanc_02/VIDEO_TS/VTS_08_1.VOB
 Aéroplane de St Péran,Yves_LeBlanc_02/VIDEO_TS/VTS_09_1.VOB
 Ridée de St Perreux,Yves_LeBlanc_02/VIDEO_TS/VTS_10_1.VOB
 Jibidi,Yves_LeBlanc_02/VIDEO_TS/VTS_11_1.VOB
 Gavotte Lescouët,Yves_LeBlanc_02/VIDEO_TS/VTS_12_1.VOB
-Gavotte des Notables,Yves_LeBlanc_02/VIDEO_TS/VTS_13.1.VOB
-Gavotte d'honneur (mode Bigoudène),Yves_LeBlanc_02/VIDEO_TS/VTS_14_1.VOB
+Gavotte des Notables An Hini Vraz,Yves_LeBlanc_02/VIDEO_TS/VTS_13.1.VOB
+Gavotte d'Honneur du Pays Bigouden,Yves_LeBlanc_02/VIDEO_TS/VTS_14_1.VOB
 Gavotte du Bas Léon,Yves_LeBlanc_02/VIDEO_TS/VTS_15_1.VOB
-Dans Kef,Yves_LeBlanc_02/VIDEO_TS/VTS_16_1.VOB
-Bal Kef,Yves_LeBlanc_02/VIDEO_TS/VTS_17_1.VOB
+Suite Keff Dans Keff,Yves_LeBlanc_02/VIDEO_TS/VTS_16_1.VOB
+Suite Keff Bal Keff,Yves_LeBlanc_02/VIDEO_TS/VTS_17_1.VOB
 Dans Leon,Yves_LeBlanc_02/VIDEO_TS/VTS_18_1.VOB
 Kérouézée,Yves_LeBlanc_02/VIDEO_TS/VTS_19_1.VOB
 Avant-Deux du Trégor,Yves_LeBlanc_02/VIDEO_TS/VTS_20_1.VOB
@@ -46,28 +46,28 @@ Périgourdine,Yves_LeBlanc_02/VIDEO_TS/VTS_21_1.VOB
 Circassienne,Yves_LeBlanc_02/VIDEO_TS/VTS_22_1.VOB
 A Paris sur le pavé,Yves_LeBlanc_02/VIDEO_TS/VTS_23.1.VOB
 ,Yves_LeBlanc_02/VIDEO_TS/VTS_24_1.VOB
-Bal à quatre,Yves_LeBlanc_02/VIDEO_TS/VTS_25_1.VOB
+Bal à Quatre,Yves_LeBlanc_02/VIDEO_TS/VTS_25_1.VOB
 Trikot,Yves_LeBlanc_03/VIDEO_TS/VTS_01_1.VOB
 Suite Treger (1ère Partie) Dans Treger,Yves_LeBlanc_03/VIDEO_TS/VTS_02_1.VOB
-Suite Treger (2ème Partie) le bal,Yves_LeBlanc_03/VIDEO_TS/VTS_03_1.VOB
+Suite Treger (2ème Partie) Bal Treger,Yves_LeBlanc_03/VIDEO_TS/VTS_03_1.VOB
 Keijaj,Yves_LeBlanc_03/VIDEO_TS/VTS_04_1.VOB
-Dans a-sailheù,Yves_LeBlanc_03/VIDEO_TS/VTS_05_1.VOB
+Dans A-Sailheù,Yves_LeBlanc_03/VIDEO_TS/VTS_05_1.VOB
 An Dro d'Elven,Yves_LeBlanc_03/VIDEO_TS/VTS_06_1.VOB
-Suite Treger (3ème Partie) Passepied,Yves_LeBlanc_03/VIDEO_TS/VTS_07_1.VOB
+Suite Treger (3ème Partie) Passepied Treger,Yves_LeBlanc_03/VIDEO_TS/VTS_07_1.VOB
 Laridé de Bignan,Yves_LeBlanc_03/VIDEO_TS/VTS_08_1.VOB
 Gavotte du Cap,Yves_LeBlanc_03/VIDEO_TS/VTS_09_1.VOB
-Kas a-barh,Yves_LeBlanc_03/VIDEO_TS/VTS_10_1.VOB
+Kas A-Barh,Yves_LeBlanc_03/VIDEO_TS/VTS_10_1.VOB
 Jabadao du Tregor,Yves_LeBlanc_03/VIDEO_TS/VTS_11_1.VOB
-Feunteun wenn (fontaine blanche),Yves_LeBlanc_03/VIDEO_TS/VTS_12_1.VOB
-Dans round,Yves_LeBlanc_03/VIDEO_TS/VTS_13.1.VOB
+Feunteun Wenn (fontaine blanche),Yves_LeBlanc_03/VIDEO_TS/VTS_12_1.VOB
+Dans Round,Yves_LeBlanc_03/VIDEO_TS/VTS_13.1.VOB
 Laridé Gavotte,Yves_LeBlanc_03/VIDEO_TS/VTS_14_1.VOB
 Bal de Pontivy,Yves_LeBlanc_03/VIDEO_TS/VTS_15_1.VOB
 Gavotte de Plougastel,Yves_LeBlanc_03/VIDEO_TS/VTS_16_1.VOB
 Gavotte Tinduff,Yves_LeBlanc_03/VIDEO_TS/VTS_17_1.VOB
-Suite Bigoudène (1ère Partie) la gavotte (mode Pouldreuzic),Yves_LeBlanc_03/VIDEO_TS/VTS_18_1.VOB
-Suite Bigoudène (2ème Partie) le bal,Yves_LeBlanc_03/VIDEO_TS/VTS_19_1.VOB
-Suite Bigoudène (3ème Partie) le jabadao,Yves_LeBlanc_03/VIDEO_TS/VTS_20_1.VOB
-Dans an amourusted,Yves_LeBlanc_03/VIDEO_TS/VTS_21_1.VOB
+Suite Bigoudène mode Pouldreuzic (1ère Partie) la gavotte,Yves_LeBlanc_03/VIDEO_TS/VTS_18_1.VOB
+Suite Bigoudène mode Pouldreuzic (2ème Partie) le bal,Yves_LeBlanc_03/VIDEO_TS/VTS_19_1.VOB
+Suite Bigoudène mode Pouldreuzic (3ème Partie) le jabadao,Yves_LeBlanc_03/VIDEO_TS/VTS_20_1.VOB
+Dans An Amourousted,Yves_LeBlanc_03/VIDEO_TS/VTS_21_1.VOB
 Tro'Leur,Yves_LeBlanc_03/VIDEO_TS/VTS_22_1.VOB
 Dans Sizun,Yves_LeBlanc_03/VIDEO_TS/VTS_23.1.VOB
 ,Yves_LeBlanc_03/VIDEO_TS/VTS_24_1.VOB
@@ -77,19 +77,19 @@ Rond de St Dolay,Yves_LeBlanc_04/VIDEO_TS/VTS_03_1.VOB
 Ridée de Josselin,Yves_LeBlanc_04/VIDEO_TS/VTS_04_1.VOB
 Le contrerond,Yves_LeBlanc_04/VIDEO_TS/VTS_05_1.VOB
 Maraîchine,Yves_LeBlanc_04/VIDEO_TS/VTS_06_1.VOB
-Le drao,Yves_LeBlanc_04/VIDEO_TS/VTS_07_1.VOB
-La bal de Dinan,Yves_LeBlanc_04/VIDEO_TS/VTS_08_1.VOB
+Drao,Yves_LeBlanc_04/VIDEO_TS/VTS_07_1.VOB
+Bal de Dinan,Yves_LeBlanc_04/VIDEO_TS/VTS_08_1.VOB
 Ridée à 7 temps,Yves_LeBlanc_04/VIDEO_TS/VTS_09_1.VOB
 Avant-Deux des Chiffonniers,Yves_LeBlanc_04/VIDEO_TS/VTS_10_1.VOB
-Bal à 4 sauts,Yves_LeBlanc_04/VIDEO_TS/VTS_11_1.VOB
+Bal à Quatre Sauts,Yves_LeBlanc_04/VIDEO_TS/VTS_11_1.VOB
 Avant-Deux de Vritz,Yves_LeBlanc_04/VIDEO_TS/VTS_12_1.VOB
-Le tour sur le dré,Yves_LeBlanc_04/VIDEO_TS/VTS_13.1.VOB
+Tour sur le Dré,Yves_LeBlanc_04/VIDEO_TS/VTS_13.1.VOB
 Les avocats,Yves_LeBlanc_04/VIDEO_TS/VTS_14_1.VOB
-Guedenne de Langueux,Yves_LeBlanc_04/VIDEO_TS/VTS_15_1.VOB
+Guedennes de Langueux,Yves_LeBlanc_04/VIDEO_TS/VTS_15_1.VOB
 Le contrerond de St Laurent,Yves_LeBlanc_04/VIDEO_TS/VTS_16_1.VOB
 Rond de Sautron simple,Yves_LeBlanc_04/VIDEO_TS/VTS_17_1.VOB
 Rond de Sautron piqué tourné,Yves_LeBlanc_04/VIDEO_TS/VTS_18_1.VOB
-Bal à deux de St Vincent,Yves_LeBlanc_04/VIDEO_TS/VTS_19_1.VOB
+Bal à Deux de Saint Vincent,Yves_LeBlanc_04/VIDEO_TS/VTS_19_1.VOB
 Bretonnes de Pornic,Yves_LeBlanc_04/VIDEO_TS/VTS_20_1.VOB
 Pilé menu,Yves_LeBlanc_04/VIDEO_TS/VTS_21_1.VOB
 Aéroplane d'Acigné,Yves_LeBlanc_04/VIDEO_TS/VTS_22_1.VOB
@@ -115,7 +115,7 @@ La violette,Yves_LeBlanc_05/VIDEO_TS/VTS_17_1.VOB
 Le pas des patineurs,Yves_LeBlanc_05/VIDEO_TS/VTS_18_1.VOB
 Mains aux genoux,Yves_LeBlanc_05/VIDEO_TS/VTS_19_1.VOB
 La cochinchine,Yves_LeBlanc_05/VIDEO_TS/VTS_20_1.VOB
-L'avant deux des jeunes,Yves_LeBlanc_05/VIDEO_TS/VTS_21_1.VOB
+Avant-Deux des jeunes,Yves_LeBlanc_05/VIDEO_TS/VTS_21_1.VOB
 La polka des lapins,Yves_LeBlanc_05/VIDEO_TS/VTS_22_1.VOB
 Trois coups de talon,Yves_LeBlanc_05/VIDEO_TS/VTS_23.1.VOB
 La contredanse écossaise,Yves_LeBlanc_05/VIDEO_TS/VTS_25_1.VOB
@@ -128,17 +128,17 @@ Avant-Deux de Jugon,Yves_LeBlanc_06/VIDEO_TS/VTS_02_1.VOB
 Avant-Quatre de Legé,Yves_LeBlanc_06/VIDEO_TS/VTS_03_1.VOB
 Avant-Deux de La Mézière,Yves_LeBlanc_06/VIDEO_TS/VTS_04_1.VOB
 Avant-Deux de Pléboulle,Yves_LeBlanc_06/VIDEO_TS/VTS_05_1.VOB
-La pastourelle des Touches,Yves_LeBlanc_06/VIDEO_TS/VTS_06_1.VOB
+Pastourelle des Touches,Yves_LeBlanc_06/VIDEO_TS/VTS_06_1.VOB
 Avant-Deux d'Ercé,Yves_LeBlanc_06/VIDEO_TS/VTS_07_1.VOB
 Avant-Deux de Bazouges-la-Pérouse,Yves_LeBlanc_06/VIDEO_TS/VTS_08_1.VOB
-Le quadrille de Grandchamp (4ème partie) Figure générale,Yves_LeBlanc_06/VIDEO_TS/VTS_09_1.VOB
+Quadrille de Grandchamp (4ème partie) Figure générale,Yves_LeBlanc_06/VIDEO_TS/VTS_09_1.VOB
 Avant-Deux de St Just,Yves_LeBlanc_06/VIDEO_TS/VTS_10_1.VOB
 Chaîne des dames,Yves_LeBlanc_06/VIDEO_TS/VTS_11_1.VOB
-La pastourelle du Gouray,Yves_LeBlanc_06/VIDEO_TS/VTS_12_1.VOB
-Le bal des Hollandais,Yves_LeBlanc_06/VIDEO_TS/VTS_13.1.VOB
+Pastourelle du Gouray,Yves_LeBlanc_06/VIDEO_TS/VTS_12_1.VOB
+Bal des Hollandais,Yves_LeBlanc_06/VIDEO_TS/VTS_13.1.VOB
 Trompeuse de Jans,Yves_LeBlanc_06/VIDEO_TS/VTS_14_1.VOB
 Partez quatre chainez,Yves_LeBlanc_06/VIDEO_TS/VTS_15_1.VOB
-Les contredanses de l'Arguenon,Yves_LeBlanc_06/VIDEO_TS/VTS_16_1.VOB
+Contredanses de l'Arguenon,Yves_LeBlanc_06/VIDEO_TS/VTS_16_1.VOB
 Avant-Deux de St Martin sur Oust,Yves_LeBlanc_06/VIDEO_TS/VTS_17_1.VOB
 Trompeuse de Dinan,Yves_LeBlanc_06/VIDEO_TS/VTS_18_1.VOB
 Avant-Deux de Nazareth,Yves_LeBlanc_06/VIDEO_TS/VTS_19_1.VOB
@@ -146,22 +146,22 @@ Avant-Deux de Chateaubriant,Yves_LeBlanc_06/VIDEO_TS/VTS_20_1.VOB
 Le quadrille de Grandchamp (1ère partie) Avant-Deux,Yves_LeBlanc_06/VIDEO_TS/VTS_21_1.VOB
 Le quadrille de Grandchamp (2ème partie) Avant-Trois,Yves_LeBlanc_06/VIDEO_TS/VTS_22_1.VOB
 Le quadrille de Grandchamp (3ème partie) Avant-Quatre,Yves_LeBlanc_06/VIDEO_TS/VTS_23.1.VOB
-Gavotte mode Lannilis,Yves_LeBlanc_07/VIDEO_TS/VTS_01_1.VOB
+Gavotte de Lannilis,Yves_LeBlanc_07/VIDEO_TS/VTS_01_1.VOB
 Rond pagan 'Un allig',Yves_LeBlanc_07/VIDEO_TS/VTS_02_1.VOB
-Gavotte mode Landeda,Yves_LeBlanc_07/VIDEO_TS/VTS_03_1.VOB
+Gavotte de Landeda,Yves_LeBlanc_07/VIDEO_TS/VTS_03_1.VOB
 Rond pagan mode Lilia 8 temps,Yves_LeBlanc_07/VIDEO_TS/VTS_04_1.VOB
-Gavotte mode St Renan,Yves_LeBlanc_07/VIDEO_TS/VTS_05_1.VOB
+Gavotte de St Renan,Yves_LeBlanc_07/VIDEO_TS/VTS_05_1.VOB
 Rond pagan mode Plouguerneau,Yves_LeBlanc_07/VIDEO_TS/VTS_06_1.VOB
-Le tourbillon de Kerlouan,Yves_LeBlanc_07/VIDEO_TS/VTS_07_1.VOB
+Tourbillon de Kerlouan,Yves_LeBlanc_07/VIDEO_TS/VTS_07_1.VOB
 Dans Bro Ac'h,Yves_LeBlanc_07/VIDEO_TS/VTS_08_1.VOB
 Les lauriers verts,Yves_LeBlanc_07/VIDEO_TS/VTS_09_1.VOB
 Rond d'Ouessant,Yves_LeBlanc_07/VIDEO_TS/VTS_10_1.VOB
-Gavotte mode Le Conquet,Yves_LeBlanc_07/VIDEO_TS/VTS_11_1.VOB
+Gavotte du Conquet,Yves_LeBlanc_07/VIDEO_TS/VTS_11_1.VOB
 Rond pagan mode Guisseny,Yves_LeBlanc_07/VIDEO_TS/VTS_12_1.VOB
 Gavotte de Plouarzel,Yves_LeBlanc_07/VIDEO_TS/VTS_13.1.VOB
 Rond pagan mode Lilia 6 temps,Yves_LeBlanc_07/VIDEO_TS/VTS_14_1.VOB
 Laridé de Lanrivoaré,Yves_LeBlanc_07/VIDEO_TS/VTS_15_1.VOB
-Gavotte mode Plouzané,Yves_LeBlanc_07/VIDEO_TS/VTS_16_1.VOB
+Gavotte de Plouzané,Yves_LeBlanc_07/VIDEO_TS/VTS_16_1.VOB
 Rond de Landeda,Yves_LeBlanc_07/VIDEO_TS/VTS_17_1.VOB
 Steredenn,Yves_LeBlanc_07/VIDEO_TS/VTS_18_1.VOB
 Rond de Molène,Yves_LeBlanc_07/VIDEO_TS/VTS_19_1.VOB
@@ -173,31 +173,31 @@ Dans Léon mode dite de Sizun,Yves_LeBlanc_08/VIDEO_TS/VTS_03_1.VOB
 Ronde aux trois pas,Yves_LeBlanc_08/VIDEO_TS/VTS_04_1.VOB
 Ronde de l'Ile de Batz,Yves_LeBlanc_08/VIDEO_TS/VTS_05_1.VOB
 Tourbillon du Dourduff,Yves_LeBlanc_08/VIDEO_TS/VTS_06_1.VOB
-Dans Léon mode Locmelar,Yves_LeBlanc_08/VIDEO_TS/VTS_07_1.VOB
-Dans an Onion,Yves_LeBlanc_08/VIDEO_TS/VTS_08_1.VOB
+Dans Léon mode dite de Locmelar,Yves_LeBlanc_08/VIDEO_TS/VTS_07_1.VOB
+Dans An Onion,Yves_LeBlanc_08/VIDEO_TS/VTS_08_1.VOB
 Tourbillon de Carantec,Yves_LeBlanc_08/VIDEO_TS/VTS_09_1.VOB
 Dans Léon mode dite de Trehou,Yves_LeBlanc_08/VIDEO_TS/VTS_10_1.VOB
 Dans Léon mode dite de La Roche Maurice,Yves_LeBlanc_08/VIDEO_TS/VTS_11_1.VOB
-Dans an amourusted,Yves_LeBlanc_08/VIDEO_TS/VTS_12.1.VOB
+Dans An Amourousted,Yves_LeBlanc_08/VIDEO_TS/VTS_12.1.VOB
 Dans Sizun coté Léon,Yves_LeBlanc_08/VIDEO_TS/VTS_13_1.VOB
 Dans Sizun coté Cornouaille,Yves_LeBlanc_08/VIDEO_TS/VTS_14_1.VOB
 Aéroplane de Sizun,Yves_LeBlanc_08/VIDEO_TS/VTS_15_1.VOB
 Aéroplane de Lampol-Guimiliau,Yves_LeBlanc_08/VIDEO_TS/VTS_16_1.VOB
-Dans Kef,Yves_LeBlanc_08/VIDEO_TS/VTS_17_1.VOB
-Bal à 2 Kef,Yves_LeBlanc_08/VIDEO_TS/VTS_18_1.VOB
-Bal à 4 Kef,Yves_LeBlanc_08/VIDEO_TS/VTS_19_1.VOB
-Bal collectif Kef,Yves_LeBlanc_08/VIDEO_TS/VTS_20_1.VOB
-Gavotte d'honneur de Commana,Yves_LeBlanc_08/VIDEO_TS/VTS_21_1.VOB
+Suite Keff Dans Keff,Yves_LeBlanc_08/VIDEO_TS/VTS_17_1.VOB
+Suite Keff Bal à 2 Keff,Yves_LeBlanc_08/VIDEO_TS/VTS_18_1.VOB
+Suite Keff Bal à 4 Keff,Yves_LeBlanc_08/VIDEO_TS/VTS_19_1.VOB
+Suite Keff Bal collectif Keff,Yves_LeBlanc_08/VIDEO_TS/VTS_20_1.VOB
+Gavotte d'Honneur de Commana,Yves_LeBlanc_08/VIDEO_TS/VTS_21_1.VOB
 Dans Léon mode dite de Pencran,Yves_LeBlanc_08/VIDEO_TS/VTS_23_1.VOB
-Suite mode Fouesnant 2 les bals,Yves_LeBlanc_09/VIDEO_TS/VTS_01_1.VOB
-Suite mode Bannalec 1 la gavotte,Yves_LeBlanc_09/VIDEO_TS/VTS_02_1.VOB
-Suite mode Bannalec 2 les bals,Yves_LeBlanc_09/VIDEO_TS/VTS_03_1.VOB
-Suite mode Pont-Aven 1 la gavotte,Yves_LeBlanc_09/VIDEO_TS/VTS_04_1.VOB
-Suite mode Pont-Avan 2 les bals,Yves_LeBlanc_09/VIDEO_TS/VTS_05_1.VOB
-Suite mode Fouesnant 1 la gavotte,Yves_LeBlanc_09/VIDEO_TS/VTS_06_1.VOB
-Suite mode Bannalec 3 le jabadao,Yves_LeBlanc_09/VIDEO_TS/VTS_07_1.VOB
-Suite mode Fouesnant 3 le jabadao,Yves_LeBlanc_09/VIDEO_TS/VTS_08_1.VOB
-Suite mode Pont-Aven 3 le jabadao,Yves_LeBlanc_09/VIDEO_TS/VTS_09_1.VOB
-Jimnaska,Yves_LeBlanc_09/VIDEO_TS/VTS_10_1.VOB
-Dans ar skubell,Yves_LeBlanc_09/VIDEO_TS/VTS_11_1.VOB
+Suite Aven mode Fouesnant 2 les bals,Yves_LeBlanc_09/VIDEO_TS/VTS_01_1.VOB
+Suite Aven mode Bannalec 1 la gavotte,Yves_LeBlanc_09/VIDEO_TS/VTS_02_1.VOB
+Suite Aven mode Bannalec 2 les bals,Yves_LeBlanc_09/VIDEO_TS/VTS_03_1.VOB
+Suite Aven mode Pont-Aven 1 la gavotte,Yves_LeBlanc_09/VIDEO_TS/VTS_04_1.VOB
+Suite Aven mode Pont-Aven 2 les bals,Yves_LeBlanc_09/VIDEO_TS/VTS_05_1.VOB
+Suite Aven mode Fouesnant 1 la gavotte,Yves_LeBlanc_09/VIDEO_TS/VTS_06_1.VOB
+Suite Aven mode Bannalec 3 le jabadao,Yves_LeBlanc_09/VIDEO_TS/VTS_07_1.VOB
+Suite Aven mode Fouesnant 3 le jabadao,Yves_LeBlanc_09/VIDEO_TS/VTS_08_1.VOB
+Suite Aven mode Pont-Aven 3 le jabadao,Yves_LeBlanc_09/VIDEO_TS/VTS_09_1.VOB
+Gymnaska,Yves_LeBlanc_09/VIDEO_TS/VTS_10_1.VOB
+Dans Ar Skubell,Yves_LeBlanc_09/VIDEO_TS/VTS_11_1.VOB
 Stoupig,Yves_LeBlanc_09/VIDEO_TS/VTS_12_1.VOB
