@@ -1,6 +1,6 @@
 FichierPDFµPageµNomDanseµLocalisationµFamilleµFormeµPasEtBrasµStyleDeroulementµAccompagnementMusical
 DANSES1.pdfµ6µHanter Droµ
-DANSES1.pdfµ7µRond de Landédaµ
+DANSES1.pdfµ7µRond de Landéda Version 1µ
 DANSES1.pdfµ8µRidée à Six Tempsµ
 DANSES1.pdfµ9µLaridé 8 Tempsµ
 DANSES1.pdfµ10µSuite de Loudéac (1ère et 3ème Partie) Rond de Loudéacµ
@@ -29,16 +29,15 @@ DANSES2.pdfµ7µLaridé de Saint Jean Brévelayµ
 DANSES2.pdfµ8µAn Dro de Bignanµ
 DANSES2.pdfµ9µSuite Paludière (1ère Partie) le rond paludierµ
 DANSES2.pdfµ11µSuite Paludière (2ème Partie) le bal paludierµ
-DANSES2.pdfµ12µSuite Fiselµ
 DANSES2.pdfµ13µSuite Fisel (1ère et 3ème Partie) la gavotteµ
 DANSES2.pdfµ14µSuite Fisel (2ème Partie) le balµ
-DANSES2.pdfµ16µJibidiµ
+DANSES2.pdfµ16µJibidi Version 1µ
 DANSES2.pdfµ17µGavotte Lescouëtµ
 DANSES2.pdfµ18µGavotte des Notables An Hini Vrazµ
 DANSES2.pdfµ19µGavotte d'Honneur du Pays Bigoudenµ
 DANSES2.pdfµ20µGavotte du Bas Léonµ
-DANSES2.pdfµ21µSuite Keff Dans Keffµ
-DANSES2.pdfµ22µSuite Keff Bal à 2 Keffµ
+DANSES2.pdfµ21µSuite Keff Dans Keff Version 1µ
+DANSES2.pdfµ22µSuite Keff Bal à 2 Keff Version 1µ
 DANSES2.pdfµ23µDans Leonµ
 DANSES2.pdfµ24µKérouézéeµ
 DANSES2.pdfµ25µAvant-Deux du Trégorµ
@@ -46,6 +45,8 @@ DANSES2.pdfµ26µLa Périgourdineµ
 DANSES2.pdfµ27µCircassienneµ
 DANSES2.pdfµ28µA Paris sur le pavéµ
 DANSES2.pdfµ29µBal à Quatreµ
+DANSES2.pdfµ30µAéroplane de St Péranµ
+DANSES3.pdfµ6µTrikotµ
 DANSES3.pdfµ6µKeijajµ
 DANSES3.pdfµ7µDans A-Sailheùµ
 DANSES3.pdfµ8µKas A-Barhµ
@@ -64,8 +65,8 @@ DANSES3.pdfµ21µGavotte Tinduffµ
 DANSES3.pdfµ22µSuite Bigoudène mode Pouldreuzic (1ère Partie) la gavotteµ
 DANSES3.pdfµ23µSuite Bigoudène mode Pouldreuzic (2ème Partie) le balµ
 DANSES3.pdfµ24µSuite Bigoudène mode Pouldreuzic (3ème Partie) le jabadaoµ
-DANSES3.pdfµ25µJibidiµ
-DANSES3.pdfµ26µDans An Amouroustedµ
+DANSES3.pdfµ25µJibidi Version 2µ
+DANSES3.pdfµ26µDans An Amourousted Version 1µ
 DANSES3.pdfµ27µTro'Leurµ
 DANSES3.pdfµ28µDans Sizunµ
 DANSES3.pdfµ29µGavotte du Capµ
@@ -87,7 +88,7 @@ DANSES4.pdfµ20µLe ContreRond de Saint Laurentµ
 DANSES4.pdfµ21µRond de Sautron Simpleµ
 DANSES4.pdfµ22µRond de Sautron Piqué-Tournéµ
 DANSES4.pdfµ23µBal à Deux de Saint Vincentµ
-DANSES4.pdfµ24µLa Oieµ
+DANSES4.pdfµ24µLa Oie - Bretonnes de Pornicµ
 DANSES4.pdfµ25µPilé Menuµ
 DANSES4.pdfµ26µAéroplane d'Acignéµ
 DANSES4.pdfµ27µRonde Cassée de Dolµ
@@ -159,7 +160,7 @@ DANSES7.pdfµ21µGavotte de Plouarzelµ
 DANSES7.pdfµ22µRond Pagan mode Lilia 6 tempsµ
 DANSES7.pdfµ23µLaridé de Lanrivoaréµ
 DANSES7.pdfµ24µGavotte de Plouzanéµ
-DANSES7.pdfµ25µRond de Landédaµ
+DANSES7.pdfµ25µRond de Landéda Version 2µ
 DANSES7.pdfµ26µSteredennµ
 DANSES7.pdfµ27µRond de Molèneµ
 DANSES7.pdfµ28µDans Moultµ
@@ -176,15 +177,15 @@ DANSES8.pdfµ18µDans Léon mode dite de Locmelarµ
 DANSES8.pdfµ20µDans Léon mode dite de Trehouµ
 DANSES8.pdfµ22µDans Léon mode dite de La Roche Mauriceµ
 DANSES8.pdfµ24µDans Léon mode dite de Pencranµ
-DANSES8.pdfµ26µDans An Amouroustedµ
+DANSES8.pdfµ26µDans An Amourousted Version 2µ
 DANSES8.pdfµ27µDans Sizun coté Cornouailleµ
 DANSES8.pdfµ28µDans Sizun coté Léonµ
 DANSES8.pdfµ29µAéroplane de Sizunµ
 DANSES8.pdfµ30µAéroplane de Lampol-Guimiliauµ
-DANSES8.pdfµ31µSuite Keff Dans Keffµ
-DANSES8.pdfµ31µSuite Keff Bal à 2 Keffµ
-DANSES8.pdfµ31µSuite Keff Bal à 4 Keffµ
-DANSES8.pdfµ31µSuite Keff Bal collectif Keffµ
+DANSES8.pdfµ31µSuite Keff Dans Keff Version 2µ
+DANSES8.pdfµ31µSuite Keff Bal à 2 Keff Version 2µ
+DANSES8.pdfµ31µSuite Keff Bal à 4 Keff Version 2µ
+DANSES8.pdfµ31µSuite Keff Bal collectif Keff Version 2µ
 DANSES8.pdfµ33µGavotte d'Honneur de Commanaµ
 DANSES9.pdfµ5µSuite Aven mode Pont-Aven 1 la gavotteµ
 DANSES9.pdfµ5µSuite Aven mode Bannalec 1 la gavotteµ

@@ -1,5 +1,5 @@
 Hanter Dro,DANSES1.pdf,6
-Rond de Landéda,DANSES1.pdf,7
+Rond de Landéda Version 1,DANSES1.pdf,7
 Ridée à Six Temps,DANSES1.pdf,8
 Laridé 8 Temps,DANSES1.pdf,9
 Suite de Loudéac (1ère et 3ème Partie) Rond de Loudéac,DANSES1.pdf,10
@@ -28,16 +28,15 @@ Laridé de Saint Jean Brévelay,DANSES2.pdf,7
 An Dro de Bignan,DANSES2.pdf,8
 Suite Paludière (1ère Partie) le rond paludier,DANSES2.pdf,9
 Suite Paludière (2ème Partie) le bal paludier,DANSES2.pdf,11
-Suite Fisel,DANSES2.pdf,12
 Suite Fisel (1ère et 3ème Partie) la gavotte,DANSES2.pdf,13
 Suite Fisel (2ème Partie) le bal,DANSES2.pdf,14
-Jibidi,DANSES2.pdf,16
+Jibidi Version 1,DANSES2.pdf,16
 Gavotte Lescouët,DANSES2.pdf,17
 Gavotte des Notables An Hini Vraz,DANSES2.pdf,18
 Gavotte d'Honneur du Pays Bigouden,DANSES2.pdf,19
 Gavotte du Bas Léon,DANSES2.pdf,20
-Suite Keff Dans Keff,DANSES2.pdf,21
-Suite Keff Bal à 2 Keff,DANSES2.pdf,22
+Suite Keff Dans Keff Version 1,DANSES2.pdf,21
+Suite Keff Bal à 2 Keff Version 1,DANSES2.pdf,22
 Dans Leon,DANSES2.pdf,23
 Kérouézée,DANSES2.pdf,24
 Avant-Deux du Trégor,DANSES2.pdf,25
@@ -45,6 +44,8 @@ La Périgourdine,DANSES2.pdf,26
 Circassienne,DANSES2.pdf,27
 A Paris sur le pavé,DANSES2.pdf,28
 Bal à Quatre,DANSES2.pdf,29
+Aéroplane de St Péran,DANSES2.pdf,30
+Trikot,DANSES3.pdf,6
 Keijaj,DANSES3.pdf,6
 Dans A-Sailheù,DANSES3.pdf,7
 Kas A-Barh,DANSES3.pdf,8
@@ -63,8 +64,8 @@ Gavotte Tinduff,DANSES3.pdf,21
 Suite Bigoudène mode Pouldreuzic (1ère Partie) la gavotte,DANSES3.pdf,22
 Suite Bigoudène mode Pouldreuzic (2ème Partie) le bal,DANSES3.pdf,23
 Suite Bigoudène mode Pouldreuzic (3ème Partie) le jabadao,DANSES3.pdf,24
-Jibidi,DANSES3.pdf,25
-Dans An Amourousted,DANSES3.pdf,26
+Jibidi Version 2,DANSES3.pdf,25
+Dans An Amourousted Version 1,DANSES3.pdf,26
 Tro'Leur,DANSES3.pdf,27
 Dans Sizun,DANSES3.pdf,28
 Gavotte du Cap,DANSES3.pdf,29
@@ -86,7 +87,7 @@ Le ContreRond de Saint Laurent,DANSES4.pdf,20
 Rond de Sautron Simple,DANSES4.pdf,21
 Rond de Sautron Piqué-Tourné,DANSES4.pdf,22
 Bal à Deux de Saint Vincent,DANSES4.pdf,23
-La Oie,DANSES4.pdf,24
+La Oie - Bretonnes de Pornic,DANSES4.pdf,24
 Pilé Menu,DANSES4.pdf,25
 Aéroplane d'Acigné,DANSES4.pdf,26
 Ronde Cassée de Dol,DANSES4.pdf,27
@@ -158,7 +159,7 @@ Gavotte de Plouarzel,DANSES7.pdf,21
 Rond Pagan mode Lilia 6 temps,DANSES7.pdf,22
 Laridé de Lanrivoaré,DANSES7.pdf,23
 Gavotte de Plouzané,DANSES7.pdf,24
-Rond de Landéda,DANSES7.pdf,25
+Rond de Landéda Version 2,DANSES7.pdf,25
 Steredenn,DANSES7.pdf,26
 Rond de Molène,DANSES7.pdf,27
 Dans Moult,DANSES7.pdf,28
@@ -175,15 +176,15 @@ Dans Léon mode dite de Locmelar,DANSES8.pdf,18
 Dans Léon mode dite de Trehou,DANSES8.pdf,20
 Dans Léon mode dite de La Roche Maurice,DANSES8.pdf,22
 Dans Léon mode dite de Pencran,DANSES8.pdf,24
-Dans An Amourousted,DANSES8.pdf,26
+Dans An Amourousted Version 2,DANSES8.pdf,26
 Dans Sizun coté Cornouaille,DANSES8.pdf,27
 Dans Sizun coté Léon,DANSES8.pdf,28
 Aéroplane de Sizun,DANSES8.pdf,29
 Aéroplane de Lampol-Guimiliau,DANSES8.pdf,30
-Suite Keff Dans Keff,DANSES8.pdf,31
-Suite Keff Bal à 2 Keff,DANSES8.pdf,31
-Suite Keff Bal à 4 Keff,DANSES8.pdf,31
-Suite Keff Bal collectif Keff,DANSES8.pdf,31
+Suite Keff Dans Keff Version 2,DANSES8.pdf,31
+Suite Keff Bal à 2 Keff Version 2,DANSES8.pdf,31
+Suite Keff Bal à 4 Keff Version 2,DANSES8.pdf,31
+Suite Keff Bal collectif Keff Version 2,DANSES8.pdf,31
 Gavotte d'Honneur de Commana,DANSES8.pdf,33
 Suite Aven mode Pont-Aven 1 la gavotte,DANSES9.pdf,5
 Suite Aven mode Bannalec 1 la gavotte,DANSES9.pdf,5
