@@ -55,7 +55,7 @@ Suite Treger (1ère Partie) Dans Treger,DANSES3.pdf,11
 Suite Treger (2ème Partie) Bal Treger,DANSES3.pdf,13
 Suite Treger (3ème Partie) Passepied Treger,DANSES3.pdf,14
 Jabadao du Tregor,DANSES3.pdf,15
-Feunteun Wenn (fontaine blanche),DANSES3.pdf,16
+Feunteun Wenn (fontaine blanche) Version 1,DANSES3.pdf,16
 Dans Round,DANSES3.pdf,17
 Laridé Gavotte,DANSES3.pdf,18
 Bal de Pontivy,DANSES3.pdf,19
@@ -198,3 +198,25 @@ Suite Aven mode Fouesnant 3 le jabadao,DANSES9.pdf,11
 Gymnaska,DANSES9.pdf,13
 Dans Ar Skubell,DANSES9.pdf,14
 Stoupig,DANSES9.pdf,15
+Gavotte de Calanhel Version 1,fictif,0
+Gavotte de Calanhel Version 2,fictif,0
+Gavotte de Calanhel Version 3,fictif,0
+Gavotte de Calanhel Version 4,fictif,0
+Gavotte de Calanhel Version 5,fictif,0
+Feunteun Wenn (fontaine blanche) Version 2,fictif,0
+Gavotte de Kernevodez Version 01,fictif,0
+Gavotte de Kernevodez Version 02,fictif,0
+Gavotte de Kernevodez Version 03,fictif,0
+Gavotte de Kernevodez Version 04,fictif,0
+Gavotte de Kernevodez Version 05,fictif,0
+Gavotte de Kernevodez Version 06,fictif,0
+Gavotte de Kernevodez Version 07,fictif,0
+Gavotte de Kernevodez Version 08,fictif,0
+Gavotte de Kernevodez Version 09,fictif,0
+Gavotte de Kernevodez Version 10,fictif,0
+Gavotte de Kernevodez Version 11,fictif,0
+Gavotte de Kernevodez Version 12,fictif,0
+Gavotte de Kernevodez Version 13,fictif,0
+Gavotte de Kernevodez Version 14,fictif,0
+Gavotte de Kernevodez Version 15,fictif,0
+Version 01,fictif,0

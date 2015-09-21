@@ -57,7 +57,7 @@ Yves_LeBlanc_03/VIDEO_TS/VTS_08_1.VOBµLaridé de Bignanµ
 Yves_LeBlanc_03/VIDEO_TS/VTS_09_1.VOBµGavotte du Capµ
 Yves_LeBlanc_03/VIDEO_TS/VTS_10_1.VOBµKas A-Barhµ
 Yves_LeBlanc_03/VIDEO_TS/VTS_11_1.VOBµJabadao du Tregorµ
-Yves_LeBlanc_03/VIDEO_TS/VTS_12_1.VOBµFeunteun Wenn (fontaine blanche)µ
+Yves_LeBlanc_03/VIDEO_TS/VTS_12_1.VOBµFeunteun Wenn (fontaine blanche) Version 1µ
 Yves_LeBlanc_03/VIDEO_TS/VTS_13_1.VOBµDans Roundµ
 Yves_LeBlanc_03/VIDEO_TS/VTS_14_1.VOBµLaridé Gavotteµ
 Yves_LeBlanc_03/VIDEO_TS/VTS_15_1.VOBµBal de Pontivyµ
@@ -199,3 +199,25 @@ Yves_LeBlanc_09/VIDEO_TS/VTS_09_1.VOBµSuite Aven mode Pont-Aven 3 le jabadaoµ
 Yves_LeBlanc_09/VIDEO_TS/VTS_10_1.VOBµGymnaskaµ
 Yves_LeBlanc_09/VIDEO_TS/VTS_11_1.VOBµDans Ar Skubellµ
 Yves_LeBlanc_09/VIDEO_TS/VTS_12_1.VOBµStoupigµ
+'../../../MusiqueBretonne/triParDanse/Calanhel/Video/Gavotte de CALANHEL - Stage de Jean LALLOUR à Redon.mp4'µGavotte de Calanhel Version 1µ
+'../../../MusiqueBretonne/triParDanse/Calanhel/Video/Gavotte du Pays de Calanhel.mp4'µGavotte de Calanhel Version 2µ
+'../../../MusiqueBretonne/triParDanse/Calanhel/Video/Gavotte pays Calanhel.wmv'µGavotte de Calanhel Version 3µ
+'../../../MusiqueBretonne/triParDanse/Calanhel/Video/LALLOUR - LECORRE -  Gavotte CALANHEL - Fête de la gavotte .mp4'µGavotte de Calanhel Version 4µ
+'../../../MusiqueBretonne/triParDanse/Calanhel/Video/POULLAOUEN 2013 - Gavotte du pays de CALANHEL au  Fest noz .mp4'µGavotte de Calanhel Version 5µ
+'../../../MusiqueBretonne/triParDanse/Plougastel/Video/'µFeunteun Wenn (fontaine blanche) Version 2µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/Aéroplane du pays de kernevodez.MOV'µGavotte de Kernevodez Version 01µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/Bal à 8 et 2 -cercle de Pluneret bal à Hanvec.MOV'µGavotte de Kernevodez Version 02µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/Dans war ar seizenn - cecle de Kerf-.MOV'µGavotte de Kernevodez Version 03µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/Dans war ar seizenn -cercle de Pluneret bal à hanvec.MOV'µGavotte de Kernevodez Version 04µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/Dans war ar seizenn Menez Meur 2011.MOV'µGavotte de Kernevodez Version 05µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/Dans_warleur_gqHL_QV8ghE.mp4'µGavotte de Kernevodez Version 06µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/Finale Kernevodez Menez Meur 2011.MOV'µGavotte de Kernevodez Version 07µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/Gavote Kernevodez.wmv'µGavotte de Kernevodez Version 08µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/Gavotte Kernevodez.mp4'µGavotte de Kernevodez Version 09µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/Gavotte Kernevodez Concours Menez Meur.mp4'µGavotte de Kernevodez Version 10µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/Gavotte Kernovodez - concours.wmv'µGavotte de Kernevodez Version 11µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/KERNEVODEZ-MENEZ MEUR 2012-dañs war ar seizenn-0TaNzFcA5cw.mp4'µGavotte de Kernevodez Version 12µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/MENEZ-MEUR 2013- gavotenn war ar seizenn kernevodez sonnée .mp4'µGavotte de Kernevodez Version 13µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/Ton diskuiz - Bal à Hanvec cercle de pluneret -.MOV'µGavotte de Kernevodez Version 14µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/War Ar Seizenn Tristan Gloaguen Gael Le Fur - Quimper-yNmY9ltQOnY.mp4'µGavotte de Kernevodez Version 15µ
+'../../../MusiqueBretonne/triParDanse/Kernevodez/Video/'µVersion 01µ
