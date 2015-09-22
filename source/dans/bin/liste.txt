@@ -1,0 +1,76 @@
+     1	0101-RondStVincent-RondStVincent
+     2	0201-DerobeeDeGuingamp-DerobeeDeGuingamp
+     3	0202-DerobeeDeGuingamp-DerobeeDeGuingamp
+     4	0203-DerobeeDeGuingamp-DerobeeDeGuingamp
+     5	0204-DerobeeDeGuingamp-DerobeeDeGuingamp
+     6	0301-Avant2Travers-Avant2Travers
+     7	0302-Avant2Travers-Avant2Travers
+     8	0401-DansLeon-DansLeon
+     9	0501-Ridee-Ridee
+    10	0502-Ridee-Ridee
+    11	0601-GavotteDesNotables-GavotteDesNotables
+    12	0602-GavotteDesNotables-GavotteDesNotables
+    13	0701-GavotteHonneur-GavotteHonneur
+    14	0801-KasHaBarh-KasHaBarh
+    15	0901-GavotteModeDardoup-Gavotte.mp3
+    16	0902-GavotteModeDardoup-Bal_a_4.mp3
+    17	0903-GavotteModeDardoup-Bal_a_8.mp3
+    18	1001-GavotteBasLeon-GavotteBasLeon
+    19	1001-PachPi-PachPi
+    20	1002-PachPi-PachPi
+    21	1101-RondSautron-RondSautron
+    22	1201-SuiteFisel-TonSimpl
+    23	1202-SuiteFisel-Bal
+    24	1203-SuiteFisel-TonDoubl
+    25	1301-Pastourelle-Pastourelle
+    26	1401-PasDe7-PasDe7
+    27	1402-Pas7-Pas7
+    28	1501-CercleCircassien-CercleCircassien
+    29	1601-Mazurka-Mazurka
+    30	1701-Laride-Laride
+    31	1702-Laride8T-Laride8T
+    32	1801-BalRhuys-BalRhuys
+    33	1901-Avant2Tregor-Avant2Tregor
+    34	2001-SuiteGavotte-TonSimpl
+    35	2002-SuiteGavotte-Bal
+    36	2003-SuiteGavotte-TonDoubl
+    37	2101-TrompeuseDinan-TrompeuseDinan
+    38	2201-LarideStJeanBrevelay-LarideStJeanBrevelay
+    39	2301-Cochinchine-Cochinchine
+    40	2501-SuiteFisel-TonSimpl
+    41	2502-SuiteFisel-Bal
+    42	2503-SuiteFisel-TonDoubl
+    43	2601-Bourrees-Bourrees
+    44	2602-Bourrees-Bourrees
+    45	2701-Gavotte mod Calanhel - ton simpl.mp3
+    46	2702-Gavotte mod Calanhel - Tamm kreiz.mp3
+    47	2703-Gavotte mod Calanhel - Ton doubl.mp3
+    48	2801-Gavotte mode Spézet - Ton simpl.mp3
+    49	2802-Gavotte mode Spézet - Tamm kreiz.mp3
+    50	2803-Gavotte mode Spézet - Ton doubl.mp3
+    51	2901-PileMenu-PileMenu
+    52	3001-SuiteLoudeac-Rond.mp3
+    53	3002-SuiteLoudeac-Baleu.mp3
+    54	3003-SuiteLoudeac-DeuxiemeRond.mp3
+    55	3004-SuiteLoudeac-Riqueniee.mp3
+    56	3101-Pastourelle-Pastourelle
+    57	3201-RondPagan-RondPagan
+    58	3301-ValseEcossaise-ValseEcossaiseFolk
+    59	3401-Scottish-Scottish
+    60	3701-KostArHoat-KostArHoat
+    61	3801-HanterDroAnDro-HanterDroAnDro
+    62	3901-Maraichine-Maraichine
+    63	4201-PolkaPiquee-PolkaPiquee
+    64	4202-PolkaPiquee-PolkaPiquee
+    65	4701-GavotteModeChateauneufDuFaou-Ton_simpl.mp3
+    66	4702-GavotteModeChateauneufDuFaou-Tamm_kreiz.mp3
+    67	4703-GavotteModeChateauneufDuFaou-Ton_doubl.mp3
+    68	4901-SuitePaludiere-RondPaludier
+    69	4902-SuitePaludiere-BalPaludier
+    70	5001-LarideGavotte-LarideGavotte
+    71	5102-Maraichine.mp3
+    72	5201-DansSizun-DansSizun
+    73	5301-Avant4Tregor-Avant4Tregor
+    74	5302-Avant4Tregor-Avant4Tregor
+    75	5303-Avant4Tregor-Avant4Tregor
+    76	5304-Avant4Tregor-Avant4Tregor
