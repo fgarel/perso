@@ -3,4 +3,5 @@ doc sur la gestion des videos
 http://www.parigotmanchot.fr/article43/convertir-un-fichier-video-sous-linux-parce-que-deux-outils-c-est-mieux-qu-un
 http://kaocode.fr/sauvegarder-ses-dvd-video-avec-ffmpeg/
 
+https://www.youtube.com/watch?v=NYP7zvamO-4
 
