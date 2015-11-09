@@ -5,3 +5,33 @@ http://kaocode.fr/sauvegarder-ses-dvd-video-avec-ffmpeg/
 
 https://www.youtube.com/watch?v=NYP7zvamO-4
 
+
+Recherche d'une video et d'un pdf pour une danse
+================================================
+
+./rechercheInfosDUneDanse.sh "Pont-Aven 1"
+
+./fabriqueMp3DUneDanse.sh "Pont-Aven 1"
+
+cela donne la ligne de commande pour obtenir un fichier mp3.
+
+cela donne aussi la commande pour visionner la video avec vlc (videoLan)
+
+Extraction de la piste 2 d'une video (commentaires d'YLB)
+=========================================================
+
+audacity MusiqueBretonne/Videos/TriParSupport/Yves_LeBlanc_09/VIDEOS_TS/VTS_04_1.VOB
+
+A l'ouverture, on peut prendre la deuxième piste uniquement, (index 81)
+
+ensuite, il suffit de faire fichier exxporter audio
+
+controle du résultat avec rhythmbox
+
+Ajout, modif des fichiers initiaux
+==================================
+
+vi ../pdf/pdf.txt
+vi ../pdf/video.txt
+
+
