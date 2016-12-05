@@ -31,8 +31,6 @@ class SuiteDeSyracuse(object):
         # http://python.jpvweb.com/mesrecettespython/doku.php?id=est_premier
         self._compteur = 0
 
-        print("init")
-
 
 
     def analyse(self, ValeurIni):
@@ -58,71 +56,33 @@ class SuiteDeSyracuse(object):
             # AltitudeMaximale
             if self._altitudeMaximale < self._valeurCourante:
                 self._altitudeMaximale = self._valeurCourante
-
             # DureeDeVol
             self._dureeDeVol += 1
+        self._altitudeMaximale = int(self._altitudeMaximale)
         print('{0} {1} {2} {3}'.format(self._valeurIni,
                                        self._dureeDeVol,
                                        self._dureeDeVolEnAltitude,
                                        self._altitudeMaximale))
 
+def maintest(nb_depart):
+    duree_vol_reponse = 0
+    reponse = 0
+    for i in range(1,nb_depart+1):
+        maSuiteDeSyracuse = SuiteDeSyracuse()
+        maSuiteDeSyracuse.analyse(i)
+        if maSuiteDeSyracuse._dureeDeVol > duree_vol_reponse:
+            duree_vol_reponse = maSuiteDeSyracuse._dureeDeVol
+            reponse = i
+        print("durée vol de cette variable = " + str(maSuiteDeSyracuse._dureeDeVol))
+        print("durée de vol réponse pour l'instant = " + str(duree_vol_reponse))
+        print("réponse pour l'instant = " + str(reponse))
+
+    print("reponse = " + str(reponse))
+    print("duree de vol de celle-ci : " + str(duree_vol_reponse))
 
 
-
-    def creationListe(self, borneFin):
-        u"""
-        Creation d'une liste de borneIni à borneFin
-        """
-        self._borneFin = borneFin
-        self._compteur = 0
-        for x in range (self._borneIni, self._borneFin):
-            # bin(x) permet de renvoyer la representation binaire du nombre x
-            # http://python.developpez.com/faq/?page=Les-nombres
-            #
-            # comment ce chiffre s'écrit en bianire ?
-            # https://docs.python.org/3.1/library/string.html
-            representationBinaire = '{0:b}'.format(x)
-            #
-            # combien ill y a de chiffres 1 dans le represenation binaire ?
-            # https://docs.python.org/3.1/library/re.html
-            chiffre1 = re.sub(r'0',
-                              r'',
-                              representationBinaire)
-            nbChiffre1 = len(chiffre1)
-            #
-            # est ce que le nombre de chiffre 1 est un nombre premier ?
-            #
-            # http://python.jpvweb.com/mesrecettespython/doku.php?id=est_premier
-            # http://compoasso.free.fr/primelistweb/page/prime/accueil.php
-            if nbChiffre1 in self._petitsPremiers:
-                estPremier = True
-                self._compteur += 1
-            else:
-                estPremier = False
-            #
-            # affichage du tableau de resultat
-            if estPremier:
-                print('{0:4d} {1} {2} {3} {4}'.format(x,
-                                                      representationBinaire,
-                                                      nbChiffre1,
-                                                      estPremier,
-                                                      self._compteur))
-            else:
-                print('{0:4d} {1} {2} {3}'.format(x,
-                                                      representationBinaire,
-                                                      nbChiffre1,
-                                                      estPremier))
 
 if __name__ == '__main__':
-    print("test")
-
-    # instanciation d'un objet
-    maSuiteDeSyracuse = SuiteDeSyracuse()
-
-    # Creation d'une liste de 1 à 100
-    maSuiteDeSyracuse.analyse(4)
-    maSuiteDeSyracuse.analyse(3)
-    maSuiteDeSyracuse.analyse(7)
-    maSuiteDeSyracuse.analyse(32)
-    maSuiteDeSyracuse.analyse(123456789)
+    print("test pour 421337")
+    maintest(421337)
     #maListeDeNombres.creationListe(2000)
