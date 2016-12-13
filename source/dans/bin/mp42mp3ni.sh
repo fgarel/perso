@@ -47,7 +47,7 @@ base=$(basename "${FILE}" .mp4)
 # option -ni (non entrelacé ?)
 #mplayer -vc null -vo null -nocorrect-pts -ao pcm:waveheader "${FILE}"
 # option -ni (non entrelacé ?)
-mplayer -vc null -vo null -nocorrect-pts -ao pcm:waveheader "${FILE}"
+mplayer -ni -vc null -vo null -nocorrect-pts -ao pcm:waveheader "${FILE}"
 RV=$?
 if [[ $RV != 0 ]] ; then
     echo "mplayer completed unsuccessfully -- exiting."
