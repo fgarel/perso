@@ -1,0 +1,2 @@
+cd ~/Install/john/run
+./john --incremental ~/Documents/perso/source/pl/francolinuscapensis07.john
