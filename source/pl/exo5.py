@@ -1,3 +1,6 @@
+# coding: utf-8
+
+#from math import *
 
 def explore(station, stations_visitees):
     """
@@ -121,165 +124,88 @@ def explore(station, stations_visitees):
     pistes si celles ci n'ont pas apporté de fun
     """
 
-    #print(str(stations_visitees))
 
-    # recherche du fun dejà pris pour arriver jusqu'à la station
-    if len(stations_visitees) == 0:
-        fun_deja_pris = 0
-    else:
-        fun_deja_pris = stations_visitees[-1]["fun_cumule"]
-    #print('station = {}, fun_deja_pris = {}'.format(station, fun_deja_pris))
+def volume_carburant(x1, y1, x2, y2):
+    """
+    volume de carburant nécessaire pour circuler entre deux points
+    à partir des coordonnées de ces deux points
+    """
+    volume_carburant = (x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1)
+    return volume_carburant
 
-    # a partir de la station, recherche de tous les nouveaux chemins possibles
-    liste_pistes = []
-    for i in range(m):
-        if piste[i]["x"] == station:
-           liste_pistes.append(i)
+def volume_carburant_point_point(point_ini, point_fin):
+    """
+    volume de carburant nécessaire pour aller d'un point a une station
+    """
+    print('volume_carburant_point_station = {}'.format(volume_carburant(point["a"], point["b"], station["x"], station["y"])))
+    print('volume_carburant_point_station = {}'.format(volume_carburant(point["c"], point["d"], station["x"], station["y"])))
 
-    # recherche si nous sommes dans une boucle
-    # c'est à dire dans une station que nous avons deja visitée
-    boucle = 0
-    fun_avant_boucle = 0
-    for dictionnaire in stations_visitees[:-1]:
-        #print(dictionnaire["station"])
-        # nous sommes dans une boucle si la station
-        # a déjà ete enregistré dans notre liste de stations_visitees
-        if station == dictionnaire["station"]:
-            # nous stockons dans une variable, le fun que nous avons
-            # accumulé avant d'entrer dans la boucle
-            fun_avant_boucle = dictionnaire["fun_cumule"]
-            boucle = 1
-    #print('fun_avant_boucle = {}, fun_deja_pris = {}'.format(fun_avant_boucle, fun_deja_pris))
 
-    if boucle == 1 or liste_pistes == []:
-        # ici, on traite les condtions d'arret,
-        # c'est à dire, si nous sommes dans une impasse
-        # ou si nous sommes dans une boucle
-        #print("conditions d'arret : impasse ou Boucle !!")
-        # on recherche si la boucle est positive ou négative
-        if liste_pistes == [] or fun_avant_boucle > fun_deja_pris:
-            # si nous sommes dans une impasse ou si la boucle est négative
-            # on recherche la maximum de fun que nous avons pu avoir à un
-            # moment donné sur notre parcours
-            max_fun = 0
-            for dictionnaire in stations_visitees:
-                if max_fun < dictionnaire["fun_cumule"]:
-                    max_fun = dictionnaire["fun_cumule"]
-        else:
-            # cas d'une boucle postitive, c'est à dire
-            # cas ou a chaque tour, on augemente le fun
-            # fun_avant_boucle < fun_deja_pris:
-            max_fun = "OVERDOSE DE FUN"
-            return max_fun
-
-    else:
-        # ici, on traite les conditions normales
-        # c'est à dire les cas ou nous allons explorer les chemins restants
-        # de maniere recursive
-
-        # parmi tous les chemins restants possibles, il faudra retenir le meilleur
-        # pour stoker cette meilleur valeur, on utilise la variable max_fun
-        # que nous initialisons à O
-        max_fun = 0
-
-        for i in liste_pistes:
-            # pour chaque possibilité de chemin :
-            #  - nous cherchons le nom de la station suivante
-            #  - nous créons une nouvelle liste pour stocker le fun de ce chemin
-            #    cette nouvelle liste, c'est la liste des stations_visites
-            #    jusqu'à présent que l'on complete avec le nouveau chemin
-            station_future = piste[i]["y"]
-            #print(str(stations_visitees + [{"station": piste[i]["y"], "fun_cumule": fun_deja_pris + piste[i]["l"]}]))
-            fun = explore(station_future, \
-                          stations_visitees + \
-                              [{"station": piste[i]["y"], \
-                                "fun_cumule": fun_deja_pris + piste[i]["l"]}])
-            #print('station = {}, fun = {}'.format(station_future,fun))
-            #print('station = {}'.format(station_future))
-
-            if (fun == "OVERDOSE DE FUN"):
-                max_fun = fun
-                return max_fun
-            if (fun != "OVERDOSE DE FUN") and (max_fun != "OVERDOSE DE FUN"):
-                if fun > max_fun:
-                    max_fun = fun
-
-    # nous retournons le resultat
-    #print('max_fun = {}'.format(max_fun))
-    return max_fun
-
-def maximise_ton_fun(n, m, piste):
-    # initialisation : nous partons de la station 0
-    station_actuelle = 0
-    fun = 0
-    boucle = 0
-    stations_visitees = []
-    boucle = None
-    #max_fun = piste[0]["l"]
-    print('{}'.format(explore(station_actuelle, stations_visitees)))
-
-    #print(str(liste_pistes))
+def volume_carburant_point_station(point, station):
+    """
+    volume de carburant nécessaire pour aller d'un point a une station
+    """
+    print('volume_carburant_point_station = {}'.format(volume_carburant(point["a"], point["b"], station["x"], station["y"])))
+    print('volume_carburant_point_station = {}'.format(volume_carburant(point["c"], point["d"], station["x"], station["y"])))
 
 
 
+def liste_volume_carburant_point_point():
+    """
+    liste de tous les volume_carburant_point_point
+    """
+    for point_ini in requetes:
+        for point_fin in requetes:
+            volume_carburant_point_point(point_ini, point_fin)
 
+def liste_volume_carburant_point_station():
+    """
+    liste de tous les volume_carburant_point_station
+    """
+    for point in requetes:
+        for station in stations:
+            volume_carburant_point_station(point, station)
+
+def taxi_des_neiges0(n, m, stations, requetes):
+    """Inserez votre code ici"""
+    print('volume_carburant = {}'.format(volume_carburant(requetes[0]["a"], requetes[0]["b"], requetes[0]["c"], requetes[0]["d"])))
+    liste_volume_carburant_point_station()
+
+"""
 # Cas generique
+
 n, m = map(int, input().split())
-piste = [{"x": 0, "y": 0, "l": 0}] * m
-for i in range(m):
-    x, y, l = map(int, input().split())
-    piste[i] = {"x": x, "y": y, "l": l}
-
+stations = [None] * n
+for i in range(n):
+    sx, sy = map(int, input().split())
+    stations[i] = {"x": sx, "y": sy}
+requetes = [None] * m
+for j in range(m):
+    ra, rb, rc, rd = map(int, input().split())
+    requetes[j] = {"a": ra, "b": rb, "c": rc, "d": rd}
 """
+
+
 # exemple 1
-n = 6
-m = 5
-piste = [{"x": 0, "y": 0, "l": 0}] * m
-piste[0] = {"x":0 , "y": 1, "l":-1 }
-piste[1] = {"x":1 , "y": 2, "l":2 }
-piste[2] = {"x":3 , "y": 4, "l":1 }
-piste[3] = {"x":4 , "y": 5, "l":-1 }
-piste[4] = {"x":5 , "y": 3, "l":1 }
+n = 1
+m = 1
+stations = [None] * n
+stations[0] = {"x": 0, "y": 0}
+requetes = [None] * m
+requetes[0] = {"a": -1, "b": 0, "c": 1, "d": 1}
 
+"""
 # exemple 2
-n = 4
-m = 4
-piste = [{"x": 0, "y": 0, "l": 0}] * m
-piste[0] = {"x":0 , "y": 1, "l":-1337 }
-piste[1] = {"x":1 , "y": 2, "l":1 }
-piste[2] = {"x":2 , "y": 3, "l":-1 }
-piste[3] = {"x":3 , "y": 1, "l":1 }
-
-# exemple 3
-n = 14
-m = 19
-piste = [{"x": 0, "y": 0, "l": 0}] * m
-
-piste[0] = {"x":0 , "y": 1, "l":5 }
-piste[1] = {"x":0 , "y": 2, "l":7 }
-piste[2] = {"x":0 , "y": 3, "l":4 }
-piste[3] = {"x":1 , "y": 4, "l":-3 }
-piste[4] = {"x":2 , "y": 5, "l":2 }
-piste[5] = {"x":2 , "y": 6, "l":-3 }
-piste[6] = {"x":2 , "y": 7, "l":-5 }
-piste[7] = {"x":3 , "y": 8, "l":4 }
-piste[8] = {"x":3 , "y": 9, "l":-3 }
-piste[9] = {"x":4 , "y": 2, "l":7 }
-piste[10] = {"x":5 , "y": 10, "l":-2 }
-piste[11] = {"x":6 , "y": 11, "l":3 }
-piste[12] = {"x":7 , "y": 12, "l":4 }
-piste[13] = {"x":8 , "y": 13, "l":-2 }
-piste[14] = {"x":9 , "y": 5, "l":-1 }
-piste[15] = {"x":10 , "y":2 , "l":-1 }
-piste[16] = {"x":11 , "y":5 , "l":5 }
-piste[17] = {"x":12 , "y":8 , "l":5 }
-piste[18] = {"x":13 , "y":0 , "l":-2 }
-
+n = 3
+m = 2
+stations = [None] * n
+stations[0] = {"x": 0, "y": 0}
+stations[1] = {"x": 0, "y": 1}
+stations[2] = {"x": 1, "y": 1}
+requetes = [None] * m
+requetes[0] = {"a": 42, "b": 0, "c": 3, "d": 3}
+requetes[1] = {"a": -1, "b": -1, "c": 2, "d": 2}
 """
 
-# Appel à la fonction
-maximise_ton_fun(n, m, piste)
-"""
-for i in range(m):
-    print(i)
-"""
+
+taxi_des_neiges0(n, m, stations, requetes)
