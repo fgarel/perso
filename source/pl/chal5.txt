@@ -1,0 +1,189 @@
+# coding: utf-8
+
+#
+
+"""
+
+# un programme executable à casser
+
+# https://grim7reaper.rolinh.ch/blog/2013/11/07/crackme-gdb/
+
+# utilisation de gdb pour suivre l'execution du programme
+http://stackoverflow.com/questions/5125896/how-to-disassemble-a-binary-executable-in-linux-to-get-the-assembly-code
+
+https://medium.com/@rickharris_dev/reverse-engineering-using-linux-gdb-a99611ab2d32#.ud9kwbnah
+
+https://2600hertz.wordpress.com/2010/01/14/hacking-into-any-executable-using-gdb/
+
+http://stackoverflow.com/questions/1026066/how-to-analyze-binary-file
+
+https://en.wikibooks.org/wiki/X86_Disassembly/Disassemblers_and_Decompilers
+
+google : gdb usage crack
+
+
+analyse du fichier
+http://forensicswiki.org/wiki/Tools:File_Analysis
+
+http://www.binaryanalysis.org/en/content/show/documentation
+
+http://pellelatarte.fr/2010/10/utiliser-vi-en-editeur-hexadecimal/
+
+desassembleur
+
+http://stackoverflow.com/questions/5125896/how-to-disassemble-a-binary-executable-in-linux-to-get-the-assembly-code
+
+https://www.onlinedisassembler.com/
+
+https://www.hopperapp.com/download.html
+
+
+
+decompiler
+
+decompiler en ligne avec l'executatble win32
+
+https://retdec.com/
+
+https://github.com/yegord/snowman
+
+http://derevenets.com/
+
+http://boomerang.sourceforge.net/index.php
+
+
+"""
+
+
+#### Test de la decompilation
+
+La decompilation avec ce service en ligne (avec l'executatble win32)
+
+https://retdec.com/
+
+donne : (extrait)
+
+
+char * g1 = "\x42\x13\x37\x7e\xf4\x1f"; // 0x40b064
+char * g2 = "\x21\x7b\x56\x0a\x9b\x71\x4d\x6f\x74\x20\x64\x65\x20\x70\x61\x73\x73\x65\x20\x69\x6e\x63\x6f\x72\x72\x65\x63\x74\x2e"; // 0x40b06c
+## recherche des valeurs de g1 et de g2 avec cette page http://www.character-code.com/ascii-table.php
+
+# http://hapax.qc.ca/conversion.fr.html
+##http://md5decrypt.net/Outils-conversion/
+g1 = "42 13 37 7e f4 1f"
+
+g1_decoupe_1 = "42"        "B"
+g1_decoupe_2 = "13"
+g1_decoupe_3 = "37 7e f4"  "7~ô"
+g1_decoupe_4 = "1f"
+
+
+g2 = "21 7b 56 0a 9b 71 4d 6f 74 20 64 65 20 70 61 73 73 65 20 69 6e 63 6f 72 72 65 63 74 2e"
+g2_decoupe_1 = "21 7B 56"  "!{V"
+g2_decoupe_3 = "0A 9b"
+g2_decoupe_3 = "71"
+d2_decoupe_4 = "4D 6F 74 20 64 65 20 70 61 73 73 65 20 69 6E 63 6F 72 72 65 63 74 2E"
+
+    int32_t v1 = 0;
+    if (len != 6) {
+        // 0x4014a0
+        _fail();
+        v1 = 0;
+        // branch -> 0x4014b2
+    }
+    while (true) {
+        char v2 = *(char *)(v1 + (int32_t)&str); // 0x4014bf
+        char v3 = *(char *)(v1 + (int32_t)&g1); // 0x4014ce
+        char v4 = *(char *)(v1 + (int32_t)&g2); // 0x4014df
+        if ((int32_t)(v3 ^ v2) != (int32_t)v4) {
+            // 0x4014e6
+            _fail();
+            // branch -> 0x4014eb
+        }
+        int32_t v5 = v1 + 1; // 0x4014eb
+        if (v5 >= 6) {
+            // break -> 0x4014fd
+            break;
+        }
+        v1 = v5;
+        // continue -> 0x4014b2
+    }
+    // 0x4014fd
+    puts("Bravo !!!");
+    return 0;
+
+
+
+
+##### test du crackage avec un simple script pour pusher un code au programme chal5_c8a3333b81d31b1a2053b78623d0c45ada208b05_x86
+Dans la décompilation précédente, on voit que le mote de passe fait 6 caractères
+
+Une facon de tester le mot de passe "000000" sur le programme chal5 est :
+```
+echo "000000" | tee >(./chal5_c8a3333b81d31b1a2053b78623d0c45ada208b05_x86-64.bin >> test.txt) >> test.txt
+```
+ici, on a utilisé la commande tee pour que le le fichier test.txt garde une trace de notre essai.
+la doc sur tee est ici
+http://unix.stackexchange.com/questions/66853/tee-cat-use-an-output-several-times-and-then-concatenate-results
+https://fr.wikipedia.org/wiki/Tee_(Unix)
+
+
+L'idee est donc de generer un fichier qui contient la liste de tous les mots de passe de 6 caractères
+
+```
+aaaaaa
+aaaaab
+aaaaac
+....
+....
+```
+puis, après, à l'aide de sed (recherche remplace) on transforme cette liste de mots de passe en liste d'instructions
+
+```
+echo "aaaaaa" | tee >(./chal5_c8a3333b81d31b1a2053b78623d0c45ada208b05_x86-64.bin >> test.txt) >> test.txt
+echo "aaaaab" | tee >(./chal5_c8a3333b81d31b1a2053b78623d0c45ada208b05_x86-64.bin >> test.txt) >> test.txt
+echo "aaaaac" | tee >(./chal5_c8a3333b81d31b1a2053b78623d0c45ada208b05_x86-64.bin >> test.txt) >> test.txt
+....
+....
+```
+
+
+1er essai : utilisation de fcrackzip pour generer cette liste de mot de passe
+En effet, quand on utilise cet outil, on a en sorti les mots de passe qui on été testé
+
+```
+fcrackzip francoslinuscapensis87.zip > passwords6.txt
+```
+
+Cette idee n'est pas très bonne.
+En effet, la liste générée n'est pas exhaustive :
+tous les mots de passe testés ne sont pas affichés
+(mais seulement 1 de temps en temps)
+
+```
+
+```
+
+
+2ème essai : generation de cette liste de mots de passe avec un script python
+
+le fichier passwords1.txt contient les différentes combinaison pour un caractère
+liste = [abcdefghijklmnopqrstuvwxyz]
+liste += [ABCDEFGHIJKLMNOPQRSTUVWXYZ]
+
+on peut utiliser aussi l'encodage utf-8
+
+on peut aussi s'inspirer du code vu ici
+
+http://security.stackexchange.com/questions/66106/brute-force-alphanumeric-password-using-johntheripper
+
+
+le code ainsi fait est chal5.py
+
+on peut l'executer de cette facon :
+
+rm -f test.txt ; ./chal5.py > ./chal5.sh ; chmod +x chal5.sh ; ./chal5.sh
+
+
+
+3ème essai john

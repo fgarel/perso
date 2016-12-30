@@ -1,0 +1,6 @@
+Joseph Marchand prépare ses vacances à la montagne. Comme tous les ans, il va
+skier. Mais comme tous les ans, il doit d'abord vérifier que ses skis sont
+encore à sa taille. D'expérience, il sait qu'il peut porter ses skis même s'il
+y a quelques tailles de différence avec ses pieds (ce qui n'est pas très prudent
+ pour ses chevilles). Il vous donne la taille de ses pieds et la taille de ses
+skis. Pouvez-vous lui donner l'écart entre les deux tailles ?

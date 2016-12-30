@@ -1,0 +1,35 @@
+# coding: utf-8
+
+#
+
+"""
+# ouverture, avec wireshark, du fichier pcap
+
+# dans le menu, fichier
+exporter liste d'objets http
+choisir un des fichiers zip (qui fait 159 kB)
+
+ensuite, il faut casser ce fichier zip
+
+
+plusieurs possibilités :
+
+1 fcrackzip
+
+  http://security.stackexchange.com/questions/35818/are-password-protected-zip-files-secure?rq=1
+
+2 john
+
+  La doc sur john est ici : Documents/technic/source/john/LisezMoi.txt
+
+  ```
+  ~/Install/john/run/zip2john francolinuscapensis07.zip > francolinuscapensis07.john
+  ~/Install/john/run/john --incremental francolinuscapensis07.john
+  ```
+
+3 script python
+
+  vu ici : http://security.stackexchange.com/questions/66106/brute-force-alphanumeric-password-using-johntheripper
+
+
+"""
