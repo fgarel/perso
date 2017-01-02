@@ -1,2 +1,1 @@
-cd ~/Install/john/run
-./john --incremental ~/Documents/perso/source/pl/francolinuscapensis07.john
+le concours prologin est constitué cette année de plusieurs challenges et de plusieurs exercices

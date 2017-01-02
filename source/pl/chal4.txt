@@ -1,35 +1,82 @@
-# coding: utf-8
+# challenge 4
 
-#
+C'est un fichier pcap a analyser
 
-"""
-# ouverture, avec wireshark, du fichier pcap
+# Procedure
 
-# dans le menu, fichier
-exporter liste d'objets http
-choisir un des fichiers zip (qui fait 159 kB)
+1. ouverture, avec wireshark, du fichier pcap
 
-ensuite, il faut casser ce fichier zip
+  # dans le menu, fichier
+  exporter liste d'objets http
+  choisir un des fichiers zip (qui fait 159 kB)
+
+  Ensuite, il faut casser ce fichier zip.
+
+2. Casser le fichier zip
+
+  Pour cela nous avons plusieurs possibilités :
+
+   - fcrackzip
+   - john the ripper
+   - un script python maison
+
+# Detail du cassage
+
+## fcrackzip
+
+http://security.stackexchange.com/questions/35818/are-password-protected-zip-files-secure?rq=1
+
+## john
+
+### Utilisation
+
+```
+~/install/john/run/zip2john francolinuscapensis07.zip > francolinuscapensis07.john
+```
 
 
-plusieurs possibilités :
+```
+~/install/JohnTheRipper/run/john --wordlist=/home/fred/install/rainbowtable/crackstation.txt ~/Documents/perso/source/pl/francolinuscapensis07.john
 
-1 fcrackzip
+# ~/install/JohnTheRipper/run/john --incremental ~/Documents/perso/source/pl/francolinuscapensis07.john
+```
 
-  http://security.stackexchange.com/questions/35818/are-password-protected-zip-files-secure?rq=1
+### Installation
 
-2 john
-
-  La doc sur john est ici : Documents/technic/source/john/LisezMoi.txt
-
-  ```
-  ~/Install/john/run/zip2john francolinuscapensis07.zip > francolinuscapensis07.john
-  ~/Install/john/run/john --incremental francolinuscapensis07.john
-  ```
-
-3 script python
-
-  vu ici : http://security.stackexchange.com/questions/66106/brute-force-alphanumeric-password-using-johntheripper
+La doc sur john est ici : Documents/technic/source/john/LisezMoi.txt
 
 
-"""
+Installation de jtr : http://openwall.com/john
+
+```
+cd ~/install
+git clone https://github.com/magnumripper/JohnTheRipper
+cd JohnTheRipper/src
+./configure
+```
+
+TODO : ajout de la librairie opencl
+voir cette page http://openwall.info/wiki/john/GPU
+
+```
+#sudo aptitude install libopencl1
+#sudo aptitude install nvidia-libopencl1-367
+```
+
+```
+./configure
+make
+sudo make install
+```
+
+Recuperation de tables arc en ciel
+le lien a été trouvé sur cette page
+http://project-rainbowcrack.com/
+
+http://project-rainbowcrack.com/table.htm
+
+
+## script python
+
+le script original a ete vu ici :
+http://security.stackexchange.com/questions/66106/brute-force-alphanumeric-password-using-johntheripper

@@ -4,8 +4,8 @@
 
 
 """
-dans le livre graphe et algorythme, il est mentionné la notion
-de diametre d'un graphe dans un plan
+dans le livre graphe et algorithme, il est mentionné la notion
+de diametre d'un graphe dans un plan (page 65)
 
 les informations plus détaillées sur cettre notion de diamètre d'un graphe dans un plan sont ici
 http://repository.cmu.edu/isr/113/
