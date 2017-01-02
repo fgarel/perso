@@ -2,6 +2,7 @@
 # coding: utf-8
 
 #import zipfile,sys,time
+import sys
 import itertools
 import subprocess
 
@@ -11,6 +12,7 @@ def main():
     pass_str += "0123456789"
     pass_str += "!:$%&/()=?+-*~"
     pass_str += '.;,'
+    pass_str = "0123456789"
     #pass_str += '{}[]'
     #pass_str += '\\'
     #pass_str += "'"
@@ -37,8 +39,9 @@ def main():
                 #print("Child was terminated by signal", -retcode, file=sys.stderr)
             #    pass
             #else:
-                #print("Child returned", retcode, file=sys.stderr)
-                #print("{}".format(password))
+
+            #    print("Child returned", retcode, file=sys.stderr)
+            #    print("{} = > {}".format(retcode, password))
             #    pass
 
 
